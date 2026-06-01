@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#7c3aed">
+<title>Shrikant Pawar — Portfolio Refresh in Progress</title>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700;900&family=Share+Tech+Mono&family=Rajdhani:wght@300;400;600&display=swap" rel="stylesheet">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='12' fill='%237c3aed'/><text x='50%25' y='54%25' dominant-baseline='middle' text-anchor='middle' font-family='Arial Black,sans-serif' font-weight='900' font-size='28' fill='white'>SP</text></svg>">
+<style>
+/* ── IDENTICAL VARIABLES TO MAIN PORTFOLIO ── */
+:root{
+  --void:#000005;--pc:#7c3aed;--pg:#a855f7;--pb:#c084fc;--pu:#e879f9;
+  --dust:#f0e6ff;--silver:#c4b5fd;--cyan:#22d3ee;--pink:#f472b6;--green:#4ade80;
+  --tr:.3s ease;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{font-size:16px;-webkit-text-size-adjust:100%;touch-action:manipulation}
+body{background:var(--void);color:var(--dust);font-family:'Rajdhani',sans-serif;min-height:100vh;min-height:100svh;overflow-x:hidden;overflow-y:auto;cursor:none;-webkit-font-smoothing:antialiased;display:flex;align-items:center;justify-content:center}
+@media(hover:none),(pointer:coarse){body,a,button{cursor:auto}}
+
+/* ── CURSOR — identical to portfolio ── */
+.cursor{width:12px;height:12px;background:var(--pu);border-radius:50%;position:fixed;pointer-events:none;z-index:9999;transform:translate(-50%,-50%);transition:width .2s,height .2s;box-shadow:0 0 20px var(--pu),0 0 40px var(--pg)}
+.cursor-ring{width:36px;height:36px;border:1px solid rgba(168,85,247,.5);border-radius:50%;position:fixed;pointer-events:none;z-index:9998;transform:translate(-50%,-50%)}
+
+/* ── NASA BG — identical to portfolio ── */
+#nasa-bg{position:fixed;inset:0;z-index:0;overflow:hidden;will-change:transform}
+.nasa-slide{position:absolute;inset:0;background-size:cover;background-position:center;opacity:0;transition:opacity 2.5s ease-in-out;animation:slowZ 35s ease-in-out infinite alternate;will-change:transform,opacity}
+.nasa-slide.active{opacity:1}
+@keyframes slowZ{from{transform:scale(1)}to{transform:scale(1.07)}}
+#overlay{position:fixed;inset:0;z-index:1;background:linear-gradient(to bottom,rgba(0,0,5,.88) 0%,rgba(0,0,5,.72) 20%,rgba(0,0,5,.72) 80%,rgba(0,0,5,.95) 100%)}
+#ptint{position:fixed;inset:0;z-index:2;background:radial-gradient(ellipse at 15% 15%,rgba(124,58,237,.2) 0%,transparent 55%),radial-gradient(ellipse at 85% 85%,rgba(232,121,249,.13) 0%,transparent 55%);pointer-events:none}
+#scanlines{position:fixed;inset:0;z-index:3;background:repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,0,0,.02) 2px,rgba(0,0,0,.02) 4px);pointer-events:none}
+#starfield{position:fixed;inset:0;z-index:4;pointer-events:none;opacity:.45}
+
+/* ── LOADER — identical to portfolio ── */
+#loader{position:fixed;inset:0;background:var(--void);z-index:9999;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:20px;transition:opacity .9s,visibility .9s}
+#loader.gone{opacity:0;visibility:hidden;pointer-events:none}
+.lring{width:56px;height:56px;border:2px solid rgba(124,58,237,.2);border-top-color:var(--pg);border-right-color:var(--pu);border-radius:50%;animation:spin .9s linear infinite}
+.lstatus{font-family:'Orbitron',sans-serif;font-size:clamp(1.2rem,3vw,1.8rem);font-weight:900;letter-spacing:6px;background:linear-gradient(135deg,#fff 0%,var(--pb) 40%,var(--pu) 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;filter:drop-shadow(0 0 24px rgba(168,85,247,.6))}
+.lsub{font-family:'Share Tech Mono',monospace;font-size:clamp(.58rem,.9vw,.68rem);color:var(--pg);letter-spacing:5px;text-transform:uppercase;margin-top:-8px;animation:bl 1.8s infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes bl{0%,100%{opacity:1}50%{opacity:.2}}
+
+/* ── MAIN CONTENT ── */
+main{
+  position:relative;z-index:10;
+  display:flex;flex-direction:column;
+  align-items:center;justify-content:center;
+  text-align:center;
+  padding:clamp(24px,6vw,60px) clamp(20px,8vw,80px);
+  gap:0;
+  width:100%;
+  min-height:100vh;
+  min-height:100svh;
+}
+
+/* ── WORK IN PROGRESS — glitch style matching hero name ── */
+.wip{
+  font-family:'Orbitron',sans-serif;
+  font-size:clamp(2.1rem,6.5vw,5.6rem);
+  font-weight:900;
+  line-height:1.0;
+  letter-spacing:clamp(-1px,-.5vw,0px);
+  background:linear-gradient(135deg,#fff 0%,var(--pb) 35%,var(--pu) 65%,var(--pink) 100%);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
+  filter:drop-shadow(0 0 40px rgba(168,85,247,.4));
+  position:relative;
+  max-width:min(100%,1100px);
+  overflow-wrap:break-word;
+  margin-bottom:clamp(8px,1.5vw,14px);
+  opacity:0;animation:up .8s .2s forwards;
+}
+/* Glitch — identical to hero name in portfolio */
+.wip::before,.wip::after{
+  content:attr(data-text);position:absolute;top:0;left:0;width:100%;
+  background:linear-gradient(135deg,#fff 0%,var(--pb) 35%,var(--pu) 65%,var(--pink) 100%);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
+}
+.wip::before{animation:g1 5s infinite;clip-path:polygon(0 0,100% 0,100% 35%,0 35%);transform:translate(-2px)}
+.wip::after{animation:g2 5s infinite;clip-path:polygon(0 65%,100% 65%,100% 100%,0 100%);transform:translate(2px)}
+@keyframes g1{0%,88%,100%{transform:translate(-2px);opacity:0}90%{transform:translate(-4px,1px);opacity:.7}93%{transform:translate(3px,-1px);opacity:0}95%{transform:translate(-3px);opacity:.4}}
+@keyframes g2{0%,88%,100%{transform:translate(2px);opacity:0}90%{transform:translate(4px,-1px);opacity:.7}93%{transform:translate(-3px,1px);opacity:0}95%{transform:translate(3px);opacity:.4}}
+
+/* ── BACK SOON — matches hero role style ── */
+.back-soon{
+  font-family:'Orbitron',sans-serif;
+  font-size:clamp(.7rem,2vw,1.1rem);
+  font-weight:600;
+  color:var(--pg);
+  letter-spacing:clamp(3px,1vw,7px);
+  text-transform:uppercase;
+  max-width:min(100%,760px);
+  line-height:1.55;
+  margin-bottom:clamp(36px,6vw,60px);
+  opacity:0;animation:up .8s .4s forwards;
+}
+
+/* ── PROGRESS BAR — matches portfolio card aesthetic ── */
+.progress-wrap{
+  width:min(760px,100%);
+  max-width:calc(100vw - clamp(32px,8vw,96px));
+  opacity:0;animation:up .8s .6s forwards;
+}
+.progress-top{
+  display:flex;justify-content:flex-end;align-items:center;
+  gap:16px;
+  margin-bottom:clamp(10px,1.4vw,14px);
+}
+.progress-label{
+  font-family:'Share Tech Mono',monospace;
+  font-size:clamp(.52rem,.78vw,.68rem);
+  color:rgba(196,181,253,.45);
+  letter-spacing:clamp(2px,.5vw,4px);text-transform:uppercase;
+  white-space:nowrap;
+}
+.progress-pct{
+  font-family:'Orbitron',sans-serif;
+  font-size:clamp(.62rem,.9vw,.78rem);
+  font-weight:700;color:var(--pb);letter-spacing:2px;
+  white-space:nowrap;
+}
+.track{
+  width:100%;height:clamp(4px,.55vw,6px);
+  background:rgba(124,58,237,.14);
+  position:relative;overflow:visible;
+  border-radius:999px;
+  box-shadow:inset 0 0 0 1px rgba(196,181,253,.05),0 0 24px rgba(124,58,237,.12);
+}
+.fill{
+  height:100%;
+  background:linear-gradient(to right,var(--pc),var(--pu),var(--cyan));
+  animation:fillIn 2.2s 1.2s both cubic-bezier(.4,0,.2,1);
+  position:relative;
+  max-width:100%;
+  border-radius:inherit;
+  overflow:hidden;
+}
+/* Glowing dot at tip */
+.fill::after{
+  content:'';position:absolute;right:-1px;top:50%;
+  transform:translateY(-50%);
+  width:clamp(8px,1.1vw,11px);height:clamp(8px,1.1vw,11px);border-radius:50%;
+  background:var(--cyan);
+  box-shadow:0 0 12px var(--cyan),0 0 24px rgba(34,211,238,.5);
+}
+/* Shimmer sweep */
+.fill::before{
+  content:'';position:absolute;inset:0;
+  background:linear-gradient(to right,transparent 0%,rgba(255,255,255,.3) 50%,transparent 100%);
+  animation:shimmer 2s 3s infinite;
+}
+@keyframes fillIn{from{width:0}to{width:var(--w,78%)}}
+@keyframes shimmer{0%{transform:translateX(-100%)}100%{transform:translateX(400%)}}
+
+/* ── SHARED KEYFRAMES ── */
+@keyframes up{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:translateY(0)}}
+
+/* ── RESPONSIVE ── */
+@media(max-width:480px){
+  .wip{font-size:clamp(2rem,10vw,3rem);letter-spacing:0}
+  .back-soon{font-size:.65rem;letter-spacing:2.5px}
+  .progress-wrap{max-width:calc(100vw - 32px)}
+  .progress-top{gap:10px}
+}
+@media(max-width:360px){
+  .wip{font-size:1.8rem}
+  .back-soon{letter-spacing:2px}
+  .lstatus{font-size:1rem;letter-spacing:3px}
+}
+@media(max-height:560px) and (orientation:landscape){
+  main{justify-content:flex-start;padding-top:clamp(18px,5vh,28px);padding-bottom:clamp(18px,5vh,28px)}
+  .back-soon{margin-bottom:24px}
+  .progress-wrap{max-width:min(680px,calc(100vw - 48px))}
+}
+@media(prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}
+  .nasa-slide,.fill::before{animation:none}
+  html{scroll-behavior:auto}
+}
+</style>
+</head>
+<body>
+
+<!-- Loader — identical to portfolio -->
+<div id="loader" role="status" aria-live="polite">
+  <div class="lring"></div>
+  <div class="lstatus">SHRIKANT PAWAR</div>
+  <div class="lsub">Cloud & Infrastructure Administrator</div>
+</div>
+
+<!-- Cursor -->
+<div class="cursor" id="cursor" aria-hidden="true"></div>
+<div class="cursor-ring" id="cursorRing" aria-hidden="true"></div>
+
+<!-- NASA BG — identical layers to portfolio -->
+<div id="nasa-bg" aria-hidden="true"></div>
+<div id="overlay" aria-hidden="true"></div>
+<div id="ptint" aria-hidden="true"></div>
+<div id="scanlines" aria-hidden="true"></div>
+<canvas id="starfield" aria-hidden="true"></canvas>
+
+<!-- Main Content -->
+<main>
+  <h1 class="wip" data-text="PORTFOLIO REFRESH">PORTFOLIO REFRESH</h1>
+  <p class="back-soon">Cloud & Infrastructure Administrator portfolio is being polished. Back soon.</p>
+
+  <div class="progress-wrap" role="progressbar" aria-valuenow="78" aria-valuemin="0" aria-valuemax="100" aria-label="Portfolio refresh progress">
+    <div class="progress-top">
+      <span class="progress-pct">78%</span>
+    </div>
+    <div class="track">
+      <div class="fill" style="--w:78%"></div>
+    </div>
+  </div>
+</main>
+
+<script>
+'use strict';
+
+/* ── SPACE BACKGROUND — identical engine to portfolio ── */
+const APOD_DATA_URL='data/apod.json';
+let cur=0,slides=[],slideTimer=null;
+
+function hideLoader(){
+  const loader=document.getElementById('loader');
+  if(loader)loader.classList.add('gone');
+}
+
+function renderSpaceBackground(){
+  const bg=document.getElementById('nasa-bg');
+  if(!bg)return;
+  const cv=document.createElement('canvas');
+  cv.style.cssText='position:absolute;inset:0;width:100%;height:100%;';
+  bg.innerHTML='';bg.appendChild(cv);
+  cv.width=window.innerWidth;cv.height=window.innerHeight;
+  const cx=cv.getContext('2d');
+  const g=cx.createRadialGradient(cv.width*.3,cv.height*.3,0,cv.width*.5,cv.height*.5,cv.width*.9);
+  g.addColorStop(0,'rgba(80,20,180,.9)');g.addColorStop(.4,'rgba(30,0,80,1)');g.addColorStop(1,'rgba(0,0,5,1)');
+  cx.fillStyle=g;cx.fillRect(0,0,cv.width,cv.height);
+}
+
+async function loadApodData(){
+  if(!['http:','https:'].includes(window.location.protocol))return [];
+  const controller=new AbortController();
+  const timeout=setTimeout(()=>controller.abort(),2500);
+  try{
+    const response=await fetch(APOD_DATA_URL,{cache:'no-store',signal:controller.signal});
+    if(!response.ok)throw new Error(response.status);
+    const data=await response.json();
+    return Array.isArray(data.items)?data.items:[];
+  }catch(e){
+    console.warn('APOD data:',e.message);return[];
+  }finally{clearTimeout(timeout)}
+}
+
+function buildSlides(items){
+  const bg=document.getElementById('nasa-bg');
+  if(!bg)return Promise.resolve();
+  bg.innerHTML='';slides=[];
+  const imgs=items.filter(i=>i&&i.media_type==='image'&&i.url).slice(0,5);
+  return Promise.all(imgs.map((item,i)=>new Promise(resolve=>{
+    const img=new Image();
+    const timeout=setTimeout(resolve,2200);
+    img.onload=()=>{
+      clearTimeout(timeout);
+      const d=document.createElement('div');
+      d.className='nasa-slide';
+      d.style.backgroundImage=`url('${item.url}')`;
+      bg.appendChild(d);
+      slides.push({el:d});
+      resolve();
+    };
+    img.onerror=()=>{clearTimeout(timeout);resolve()};
+    img.src=item.url;
+  })));
+}
+
+function goTo(i){
+  if(!slides.length)return;
+  if(slides[cur])slides[cur].el.classList.remove('active');
+  cur=((i%slides.length)+slides.length)%slides.length;
+  if(slides[cur])slides[cur].el.classList.add('active');
+}
+
+function startShow(){
+  if(!slides.length)return false;
+  goTo(0);
+  clearInterval(slideTimer);
+  slideTimer=setInterval(()=>goTo(cur+1),12000);
+  return true;
+}
+
+const loaderFallback=setTimeout(hideLoader,3500);
+(async()=>{
+  try{
+    const items=await loadApodData();
+    await buildSlides(items);
+    if(!startShow())renderSpaceBackground();
+  }catch(e){
+    renderSpaceBackground();
+  }finally{
+    clearTimeout(loaderFallback);
+    setTimeout(hideLoader,500);
+  }
+})();
+
+/* ── STARFIELD — identical to portfolio ── */
+const sc=document.getElementById('starfield');
+const sx=sc?sc.getContext('2d'):null;
+function rsz(){if(!sc)return;sc.width=window.innerWidth;sc.height=window.innerHeight}
+rsz();let rszT;window.addEventListener('resize',()=>{clearTimeout(rszT);rszT=setTimeout(rsz,150)});
+const stars=Array.from({length:160},()=>({x:Math.random()*window.innerWidth,y:Math.random()*window.innerHeight,r:Math.random()*1.4+.2,t:Math.random()*Math.PI*2,ts:Math.random()*.012+.003,vy:Math.random()*.06+.01}));
+const shooters=[];
+setInterval(()=>{if(shooters.length<2)shooters.push({x:Math.random()*sc.width,y:Math.random()*sc.height*.4,len:Math.random()*80+50,speed:Math.random()*6+4,alpha:1,a:Math.PI/4+(Math.random()-.5)*.4})},3500);
+let raf;
+function drawSC(){
+  if(!sc||!sx)return;
+  sx.clearRect(0,0,sc.width,sc.height);
+  stars.forEach(s=>{
+    s.t+=s.ts;s.y+=s.vy;
+    if(s.y>sc.height){s.y=0;s.x=Math.random()*sc.width}
+    const a=.22+.72*Math.abs(Math.sin(s.t));
+    sx.beginPath();sx.arc(s.x,s.y,s.r,0,Math.PI*2);
+    if(s.r>1.1){sx.shadowBlur=6;sx.shadowColor='rgba(192,132,252,.65)'}else sx.shadowBlur=0;
+    sx.fillStyle=`rgba(255,255,255,${a*.58})`;sx.fill();
+  });
+  for(let i=shooters.length-1;i>=0;i--){
+    const s=shooters[i];s.x+=Math.cos(s.a)*s.speed;s.y+=Math.sin(s.a)*s.speed;s.alpha-=.015;
+    if(s.alpha<=0){shooters.splice(i,1);continue}
+    const g=sx.createLinearGradient(s.x,s.y,s.x-Math.cos(s.a)*s.len,s.y-Math.sin(s.a)*s.len);
+    g.addColorStop(0,`rgba(232,121,249,${s.alpha})`);g.addColorStop(.4,`rgba(168,85,247,${s.alpha*.45})`);g.addColorStop(1,'transparent');
+    sx.beginPath();sx.moveTo(s.x,s.y);sx.lineTo(s.x-Math.cos(s.a)*s.len,s.y-Math.sin(s.a)*s.len);
+    sx.strokeStyle=g;sx.lineWidth=1.5;sx.shadowBlur=0;sx.stroke();
+  }
+  raf=requestAnimationFrame(drawSC);
+}
+document.addEventListener('visibilitychange',()=>{if(document.hidden)cancelAnimationFrame(raf);else drawSC()});
+drawSC();
+
+/* ── CURSOR — identical to portfolio ── */
+if(window.matchMedia('(hover:hover)').matches){
+  const crsr=document.getElementById('cursor');
+  const crng=document.getElementById('cursorRing');
+  let mx=0,my=0,rx=0,ry=0;
+  document.addEventListener('mousemove',e=>{mx=e.clientX;my=e.clientY;crsr.style.left=mx+'px';crsr.style.top=my+'px'},{passive:true});
+  (function ar(){rx+=(mx-rx)*.12;ry+=(my-ry)*.12;crng.style.left=rx+'px';crng.style.top=ry+'px';requestAnimationFrame(ar)})();
+}
+</script>
+</body>
+</html>
