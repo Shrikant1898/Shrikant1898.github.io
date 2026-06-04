@@ -1,5 +1,51 @@
 {
-  "source": "fallback",
-  "updated": "2026-05-13T00:00:00.000Z",
-  "items": []
+  "source": "nasa-apod",
+  "updated": "2026-06-04T08:01:29.505Z",
+  "items": [
+    {
+      "title": "Two Black Holes Dancing in 3C 75",
+      "date": "2017-10-22",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/1710/3c75_chandraNRAO_960.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/1710/3c75_chandraNRAO_576.jpg",
+      "explanation": "What's happening at the center of active galaxy 3C 75?  The two bright sources at the center of this composite x-ray (blue)/ radio (pink) image are co-orbiting supermassive black holes powering the giant radio source 3C 75. Surrounded by multimillion degree x-ray emitting gas, and blasting out jets of relativistic particles the supermassive black holes are separated by 25,000 light-years. At the cores of two merging galaxies in the Abell 400 galaxy cluster they are some 300 million light-years away. Astronomers conclude that these two supermassive black holes are bound together by gravity in a binary system in part because the jets' consistent swept back appearance is most likely due to their common motion as they speed through the hot cluster gas at 1200 kilometers per second. Such spectacular cosmic mergers are thought to be common in crowded galaxy cluster environments in the distant universe. In their final stages the mergers are expected to be intense sources of gravitational waves.   Free Download: The 2018 APOD Calendar",
+      "copyright": ""
+    },
+    {
+      "title": "Solar Surfin'",
+      "date": "1999-07-16",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/9907/eclipse91_ncar.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/9907/eclipse91_ncar_big.jpg",
+      "explanation": "The sun's corona is a tenuous outer atmosphere composed of streams of energetic charged particles, but it is only easily seen from Earth during a total solar eclipse. For example, this 1991 image of totality from atop Mauna Kea, Hawaii forms a fleeting snapshot of the mysterious corona's beautiful, intricate structures and streams. However in space, instruments can use occulting disks to simulate eclipses and more readily monitor the corona beyond the sun's edge. Combined observations from the space-based SOHO UCVS and shuttle-borne Spartan 201 experiments have recently contributed to a major advance in understanding the high-speed component of the wind of particles in the corona. They reveal evidence for magnetic waves within the corona itself that push solar wind particles along, like an ocean wave gives a surfer a ride. Surprisingly, heavier charged particles can surf the magnetic waves faster - oxygen ions were found to achieve speeds of up to 500 miles per second, faster than the lighter hydrogen ions which make up most of the solar wind.",
+      "copyright": "Steve Albers"
+    },
+    {
+      "title": "A Galactic Star Forming Region in Infrared",
+      "date": "2007-09-24",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/0709/snake_spitzer.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0709/snake_spitzer_big.jpg",
+      "explanation": "How do stars form?  To help study this complex issue, astronomers took a deep image in infrared light of an active part of our Milky Way Galaxy where star formation is rampant.  In IRDC G11.11-0.11, thick clouds of dust and gas are congealing into stars that are so dark that humans living there would see an empty night sky.  The image, though, taken last year by the Spitzer Space Telescope in infrared light, shows vast glowing fields of gas and dust, indicating that much of this dust is heated by forming stars.  The centers of some clouds, such as the snake-like structure on the upper left, are so thick and cold that they are dark even in infrared light. Many of the red dots are glowing dust shrouds centered on very young newly formed stars.  The unusual red sphere below the snake is actually a supernova remnant, the glowing shell of a young star so massive it evolved rapidly and exploded.  The region spans about 150 light years and lies about 10,000 light years away toward the constellation of Sagittarius.   APOD editor to review best space pictures in Philadelphia Wednesday night",
+      "copyright": ""
+    },
+    {
+      "title": "M87's Energetic Jet",
+      "date": "2004-12-11",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/0412/m87_comp.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0412/m87_comp.jpg",
+      "explanation": "An energetic jet from the core of giant elliptical galaxy M87 stretches outward for 5,000 light-years. This monstrous jet appears in the panels above to be a knotted and irregular structure, detected across the spectrum, from x-ray to optical to radio wavelengths. In all these bands, the observed emission is likely created as high energy electrons spiral along magnetic field lines, so called synchrotron radiation. But what powers this cosmic blowtorch? Ultimately, the jet is thought to be produced as matter near the center of M87 swirls toward a spinning, supermassive black hole. Strong electromagnetic forces are generated and eject material away from the black hole along the axis of rotation in a narrow jet. Galaxy M87 is about 50 million light-years away and reigns as the large central elliptical galaxy in the Virgo cluster.   News: The answer to Lewin's Challenge APOD can be found here.",
+      "copyright": ""
+    },
+    {
+      "title": "VdB 152: A Ghost in Cepheus",
+      "date": "2012-10-31",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/1210/VDB152_LRGB_leshin600.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/1210/VDB152_LRGB_leshin.jpg",
+      "explanation": "Described as a \"dusty curtain\" or \"ghostly apparition\", mysterious reflection nebula VdB 152 really is very faint. Far from your neighborhood on this Halloween Night, the cosmic phantom is nearly 1,400 light-years away. Also catalogued as Ced 201, it lies along the northern Milky Way in the royal constellation Cepheus. Near the edge of a large molecular cloud, pockets of interstellar dust in the region block light from background stars or scatter light from the embedded bright star giving parts of the nebula a characteristic blue color. Ultraviolet light from the star is also thought to cause a dim reddish luminescence in the nebular dust. Though stars do form in molecular clouds, this star seems to have only accidentally wandered into the area, as its measured velocity through space is very different from the cloud's velocity. This deep telescopic image of the region spans about 7 light-years.",
+      "copyright": "Stephen Leshin"
+    }
+  ]
 }
