@@ -1,51 +1,51 @@
 {
   "source": "nasa-apod",
-  "updated": "2026-06-04T08:01:29.505Z",
+  "updated": "2026-06-05T07:19:32.884Z",
   "items": [
     {
-      "title": "Two Black Holes Dancing in 3C 75",
-      "date": "2017-10-22",
+      "title": "Redshift 5.8: A New Farthest Quasar",
+      "date": "2000-04-19",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/1710/3c75_chandraNRAO_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/1710/3c75_chandraNRAO_576.jpg",
-      "explanation": "What's happening at the center of active galaxy 3C 75?  The two bright sources at the center of this composite x-ray (blue)/ radio (pink) image are co-orbiting supermassive black holes powering the giant radio source 3C 75. Surrounded by multimillion degree x-ray emitting gas, and blasting out jets of relativistic particles the supermassive black holes are separated by 25,000 light-years. At the cores of two merging galaxies in the Abell 400 galaxy cluster they are some 300 million light-years away. Astronomers conclude that these two supermassive black holes are bound together by gravity in a binary system in part because the jets' consistent swept back appearance is most likely due to their common motion as they speed through the hot cluster gas at 1200 kilometers per second. Such spectacular cosmic mergers are thought to be common in crowded galaxy cluster environments in the distant universe. In their final stages the mergers are expected to be intense sources of gravitational waves.   Free Download: The 2018 APOD Calendar",
+      "url": "https://apod.nasa.gov/apod/image/0004/qso582_sdss_big.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0004/qso582_sdss.gif",
+      "explanation": "The distance record for a quasar has been broken yet again.  At the present time, no other object in the universe has been found to be more distant than the above speck.  The recently discovered quasar has been clocked at redshift 5.82.  The exact relation between redshift and distance remains presently unknown, although surely higher redshifts do mean greater distance.  The above quasar is likely billions of light-years away and so is seen when the universe was younger than one billion years old, less than a tenth of its present age.  Like all quasars, this object is probably a large black hole in the center of a distant galaxy. Don't close the record book yet, though.  The redshifts to several other SDSS-discovered quasars are currently being measured, some of which might have redshifts greater than six.",
       "copyright": ""
     },
     {
-      "title": "Solar Surfin'",
-      "date": "1999-07-16",
+      "title": "Milky Way over Shipwreck",
+      "date": "2016-11-30",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/9907/eclipse91_ncar.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/9907/eclipse91_ncar_big.jpg",
-      "explanation": "The sun's corona is a tenuous outer atmosphere composed of streams of energetic charged particles, but it is only easily seen from Earth during a total solar eclipse. For example, this 1991 image of totality from atop Mauna Kea, Hawaii forms a fleeting snapshot of the mysterious corona's beautiful, intricate structures and streams. However in space, instruments can use occulting disks to simulate eclipses and more readily monitor the corona beyond the sun's edge. Combined observations from the space-based SOHO UCVS and shuttle-borne Spartan 201 experiments have recently contributed to a major advance in understanding the high-speed component of the wind of particles in the corona. They reveal evidence for magnetic waves within the corona itself that push solar wind particles along, like an ocean wave gives a surfer a ride. Surprisingly, heavier charged particles can surf the magnetic waves faster - oxygen ions were found to achieve speeds of up to 500 miles per second, faster than the lighter hydrogen ions which make up most of the solar wind.",
-      "copyright": "Steve Albers"
+      "url": "https://apod.nasa.gov/apod/image/1611/OldShip_Montufar_1080.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/1611/OldShip_Montufar_3000_annotated.jpg",
+      "explanation": "What happened to this ship? It was carried aground by a giant storm that struck the coast of Argentina in 2002.  The pictured abandoned boat, dubbed Naufragio del Chubasco, wrecked near the nearly abandoned town of Cabo Raso (population: 1). The rusting ship provides a picturesque but perhaps creepy foreground for the beautiful sky above. This sky is crowned by the grand arch of our Milky Way and features galaxies including the Large and Small Magellanic Clouds, stars including Canopus and Altair, planets including Mars and Neptune, and nebulas including the Lagoon, Carina, and the Coal Sack. The mosaic was composed from over 80 images taken in early September.  A 360-degree interactive panoramic version of this image is also available.  The adventurous astrophotographer reports that the creepiest part of taking this picture was not the abandoned ship, but the unusual prevalence of black and hairy caterpillars.",
+      "copyright": "Sergio Mont�far  \n(Planetario Ciudad de La Plata)"
     },
     {
-      "title": "A Galactic Star Forming Region in Infrared",
-      "date": "2007-09-24",
+      "title": "APM 08279+5255: The Brightest Object Yet Known",
+      "date": "1998-08-18",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0709/snake_spitzer.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0709/snake_spitzer_big.jpg",
-      "explanation": "How do stars form?  To help study this complex issue, astronomers took a deep image in infrared light of an active part of our Milky Way Galaxy where star formation is rampant.  In IRDC G11.11-0.11, thick clouds of dust and gas are congealing into stars that are so dark that humans living there would see an empty night sky.  The image, though, taken last year by the Spitzer Space Telescope in infrared light, shows vast glowing fields of gas and dust, indicating that much of this dust is heated by forming stars.  The centers of some clouds, such as the snake-like structure on the upper left, are so thick and cold that they are dark even in infrared light. Many of the red dots are glowing dust shrouds centered on very young newly formed stars.  The unusual red sphere below the snake is actually a supernova remnant, the glowing shell of a young star so massive it evolved rapidly and exploded.  The region spans about 150 light years and lies about 10,000 light years away toward the constellation of Sagittarius.   APOD editor to review best space pictures in Philadelphia Wednesday night",
+      "url": "https://apod.nasa.gov/apod/image/9808/apm08279_totten.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/9808/apm08279_totten_big.gif",
+      "explanation": "It shines with the brightness of 100 billion Suns.  Is it a mirage? The recently discovered quasar labeled APM 08279+5255 has set a new record as being the brightest continuously emitting object yet known.  APM 08279+5255's great distance, though, makes it only appear as bright as magnitude 15.2, an object which can be seen with a moderate sized telescope.  It is the quasar's extreme redshift of 3.87 that places it far across our universe, and implies a truly impressive energy output.  One possible explanation of APM 08279+5255's record luminosity is that it is partly a mirage: its light is highly magnified by an intervening galaxy that acts as a  gravitational lens. Alternatively, APM 08279+5255 might be the most active known center of an intriguing class of colliding galaxies rich in gas and dust.",
       "copyright": ""
     },
     {
-      "title": "M87's Energetic Jet",
-      "date": "2004-12-11",
+      "title": "Moon over Makemake",
+      "date": "2016-04-30",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0412/m87_comp.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0412/m87_comp.jpg",
-      "explanation": "An energetic jet from the core of giant elliptical galaxy M87 stretches outward for 5,000 light-years. This monstrous jet appears in the panels above to be a knotted and irregular structure, detected across the spectrum, from x-ray to optical to radio wavelengths. In all these bands, the observed emission is likely created as high energy electrons spiral along magnetic field lines, so called synchrotron radiation. But what powers this cosmic blowtorch? Ultimately, the jet is thought to be produced as matter near the center of M87 swirls toward a spinning, supermassive black hole. Strong electromagnetic forces are generated and eject material away from the black hole along the axis of rotation in a narrow jet. Galaxy M87 is about 50 million light-years away and reigns as the large central elliptical galaxy in the Virgo cluster.   News: The answer to Lewin's Challenge APOD can be found here.",
+      "url": "https://apod.nasa.gov/apod/image/1604/Makemakemoon100mile.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/1604/Makemakemoon100mile2000px.jpg",
+      "explanation": "Makemake, second brightest dwarf planet of the Kuiper belt, has a moon. Nicknamed MK2, Makemake's moon reflects sunlight with a charcoal-dark surface, about 1,300 times fainter than its parent body. Still, it was spotted in Hubble Space Telescope observations intended to search for faint companions with the same technique used to find the small satellites of Pluto. Just as for Pluto and its satellites, further observations of Makemake and orbiting moon will measure the system's mass and density and allow a broader understanding of the distant worlds. About 160 kilometers (100 miles) across compared to Makemake's 1,400 kilometer diameter, MK2's relative size and contrast are shown in this artist's vision. An imagined scene of an unexplored frontier of the Solar System, it looks back from a spacecraft's vantage as the dim Sun shines along the Milky Way. Of course, the Sun is over 50 times farther from Makemake than it is from planet Earth.",
       "copyright": ""
     },
     {
-      "title": "VdB 152: A Ghost in Cepheus",
-      "date": "2012-10-31",
+      "title": "Moon Meets Jupiter",
+      "date": "2012-07-20",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/1210/VDB152_LRGB_leshin600.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/1210/VDB152_LRGB_leshin.jpg",
-      "explanation": "Described as a \"dusty curtain\" or \"ghostly apparition\", mysterious reflection nebula VdB 152 really is very faint. Far from your neighborhood on this Halloween Night, the cosmic phantom is nearly 1,400 light-years away. Also catalogued as Ced 201, it lies along the northern Milky Way in the royal constellation Cepheus. Near the edge of a large molecular cloud, pockets of interstellar dust in the region block light from background stars or scatter light from the embedded bright star giving parts of the nebula a characteristic blue color. Ultraviolet light from the star is also thought to cause a dim reddish luminescence in the nebular dust. Though stars do form in molecular clouds, this star seems to have only accidentally wandered into the area, as its measured velocity through space is very different from the cloud's velocity. This deep telescopic image of the region spans about 7 light-years.",
-      "copyright": "Stephen Leshin"
+      "url": "https://apod.nasa.gov/apod/image/1207/MJ_Fattinnanzi900.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/1207/MJ_Fattinnanzi2048.jpg",
+      "explanation": "Skygazers around planet Earth enjoyed the close encounter of planets and Moon in July 15's predawn skies. And while many saw bright Jupiter next to the slender, waning crescent, Europeans also had the opportunity to watch the ruling gas giant pass behind the lunar disk, occulted by the Moon as it slid through the night. Clouds threaten in this telescopic view from Montecassiano, Italy, but the frame still captures Jupiter after it emerged from the occultation along with all four of its large Galilean moons. The sunlit crescent is overexposed with the Moon's night side faintly illuminated by Earthshine. Lined up left to right beyond the dark lunar limb are Callisto, Ganymede, Jupiter, Io, and Europa.  In fact, Callisto, Ganymede, and Io are larger than Earth's Moon, while Europa is only slightly smaller.",
+      "copyright": "Cristian Fattinnanzi"
     }
   ]
 }
