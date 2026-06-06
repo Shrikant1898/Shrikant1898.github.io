@@ -1,51 +1,51 @@
 {
   "source": "nasa-apod",
-  "updated": "2026-06-05T07:19:32.884Z",
+  "updated": "2026-06-06T06:39:06.135Z",
   "items": [
     {
-      "title": "Redshift 5.8: A New Farthest Quasar",
-      "date": "2000-04-19",
+      "title": "An Iridescent Pileus Cloud over China",
+      "date": "2022-09-06",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0004/qso582_sdss_big.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0004/qso582_sdss.gif",
-      "explanation": "The distance record for a quasar has been broken yet again.  At the present time, no other object in the universe has been found to be more distant than the above speck.  The recently discovered quasar has been clocked at redshift 5.82.  The exact relation between redshift and distance remains presently unknown, although surely higher redshifts do mean greater distance.  The above quasar is likely billions of light-years away and so is seen when the universe was younger than one billion years old, less than a tenth of its present age.  Like all quasars, this object is probably a large black hole in the center of a distant galaxy. Don't close the record book yet, though.  The redshifts to several other SDSS-discovered quasars are currently being measured, some of which might have redshifts greater than six.",
+      "url": "https://apod.nasa.gov/apod/image/2209/Pileus_Jiaqi_960.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2209/Pileus_Jiaqi_4032.jpg",
+      "explanation": "Yes, but how many dark clouds have a multicolored lining? Pictured, behind this darker cloud, is a pileus iridescent cloud, a group of water droplets that have a uniformly similar size and so together diffract different colors of sunlight by different amounts.  The featured image was taken last month in Pu'er, Yunnan Province, China. Also captured were unusual cloud ripples above the pileus cloud.  The formation of a rare pileus cloud capping a common cumulus cloud is an indication that the lower cloud is expanding upward and might well develop into a storm.    Explore Your Universe: Random APOD Generator",
+      "copyright": "Jiaqi Sun （孙嘉琪）"
+    },
+    {
+      "title": "Moon Near the Edge",
+      "date": "2025-04-12",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/2504/PlataformaRecorteHorizontalRedes1024.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2504/PlataformaRecorteHorizontalRedes.jpg",
+      "explanation": "Most of us watch the Moon at night. But the Moon spends nearly as many daylight hours above our horizon, though in bright daytime skies the lunar disk looks pale and can be a little harder to see. Of course in daytime skies the Moon also appears to cycle through its phases, shining by reflected sunlight as it orbits our fair planet. For daytime moonwatchers, the Moon is probably easier to spot when the visible sunlit portion of the lunar disk is large and waxing following first quarter or waning approaching its third quarter phase. And though it might look unusual, a daytime moon is often seen even in urban skies. Captured here in a telephoto snapshot taken on March 12, a waxing daytime Moon is aligned near the edge of a popular observation deck that overlooks New York City's borough of Manahattan.",
+      "copyright": "Jordi Coy"
+    },
+    {
+      "title": "Satellites Collide in Low Earth Orbit",
+      "date": "2009-02-18",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/0902/collidingsatellites_agi.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0902/collidingsatellites_agi_big.jpg",
+      "explanation": "How often do satellites collide? Although minuscule space debris may strike any satellite on occasion, the first known collision between time two full satellites occurred only last week. Even though thousands of satellites have been launched, the low collision rate is caused by the great vastness of space. Last week, however, a defunct Russian communications satellite named Cosmos 2251 smashed right into an operational US communications satellite named Iridium 33 over Siberia, Russia.  Both satellites were destroyed.  The sheer number of massive particles in a dispersing debris cloud, depicted in an inset image above, increases the risk that other operating satellites might be struck by a harmful fast-moving projectile.  The collision occurred in low Earth orbit only 750 kilometers up, a height shared by many satellites but significantly higher than the 350-km high human-occupied International Space Station.  Since satellites may disintegrate when struck by fast-moving space junk, the crash focuses concern that a future dramatic satellite collision may one day start an ablation cascade of increasingly more collisions.  The result could then render future human space flights increasingly risky and expensive satellite lifetimes increasingly short.",
+      "copyright": "Analytical Graphics, Inc."
+    },
+    {
+      "title": "Our Solar System from Voyager",
+      "date": "1995-08-19",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/solsys_vg1.gif",
+      "hdurl": "https://apod.nasa.gov/apod/image/solsys_vg1.gif",
+      "explanation": "August 19, 1995    Our Solar System from Voyager  Credit: NASA, Voyager 1,  Explanation:  After taking its spectacular pictures of the outer solar system planets,  Voyager 1  looked back at six planets from the inner solar system. Here Venus, Earth, Jupiter, Saturn, Uranus, and Neptune, were all visible across the sky. Each, however, was now just a small speck of light, dimmer than many of the stars in the sky. Voyager 1 is only one of four human-made objects to leave our Solar System, the other three being  Voyager 2, and  Pioneer 10 and 11.",
       "copyright": ""
     },
     {
-      "title": "Milky Way over Shipwreck",
-      "date": "2016-11-30",
+      "title": "The Coldest Brown Dwarf",
+      "date": "2011-08-30",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/1611/OldShip_Montufar_1080.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/1611/OldShip_Montufar_3000_annotated.jpg",
-      "explanation": "What happened to this ship? It was carried aground by a giant storm that struck the coast of Argentina in 2002.  The pictured abandoned boat, dubbed Naufragio del Chubasco, wrecked near the nearly abandoned town of Cabo Raso (population: 1). The rusting ship provides a picturesque but perhaps creepy foreground for the beautiful sky above. This sky is crowned by the grand arch of our Milky Way and features galaxies including the Large and Small Magellanic Clouds, stars including Canopus and Altair, planets including Mars and Neptune, and nebulas including the Lagoon, Carina, and the Coal Sack. The mosaic was composed from over 80 images taken in early September.  A 360-degree interactive panoramic version of this image is also available.  The adventurous astrophotographer reports that the creepiest part of taking this picture was not the abandoned ship, but the unusual prevalence of black and hairy caterpillars.",
-      "copyright": "Sergio Mont�far  \n(Planetario Ciudad de La Plata)"
-    },
-    {
-      "title": "APM 08279+5255: The Brightest Object Yet Known",
-      "date": "1998-08-18",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/9808/apm08279_totten.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/9808/apm08279_totten_big.gif",
-      "explanation": "It shines with the brightness of 100 billion Suns.  Is it a mirage? The recently discovered quasar labeled APM 08279+5255 has set a new record as being the brightest continuously emitting object yet known.  APM 08279+5255's great distance, though, makes it only appear as bright as magnitude 15.2, an object which can be seen with a moderate sized telescope.  It is the quasar's extreme redshift of 3.87 that places it far across our universe, and implies a truly impressive energy output.  One possible explanation of APM 08279+5255's record luminosity is that it is partly a mirage: its light is highly magnified by an intervening galaxy that acts as a  gravitational lens. Alternatively, APM 08279+5255 might be the most active known center of an intriguing class of colliding galaxies rich in gas and dust.",
+      "url": "https://apod.nasa.gov/apod/image/1108/YdwarfField_wise.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/1108/YdwarfField_wise.jpg",
+      "explanation": "This cosmic snapshot composed with image data from NASA's Wide-field Infrared Survey Explorer (WISE) satellite captures a multitude of faint stars and distant galaxies toward the constellation Lyra at wavelengths longer than visible light. But the object circled at the center is not quite a star. Cataloged as WISE 1828+2650, it lies within 40 light-years of the Sun and is currently the coldest brown dwarf known. A brown dwarf begins like a star, with the gravitational collapse of a dense cloud of gas and dust, but is not massive enough to achieve the core temperatures and densities that trigger hydrogen fusion, the stable source of a star's energy. Instead the failed star ultimately cools and emits most of its light at infrared wavelengths. Remarkably, brown dwarfs are roughly the size of the planet Jupiter. How cold is WISE 1828+2650? While brown dwarfs have measured surface temperatures of up to 1,400 degrees C (2,600 degress F), this brown dwarf , assigned to spectral class Y, has the estimated temperature of a warm room, less than about 27 degrees C (80 degrees F).",
       "copyright": ""
-    },
-    {
-      "title": "Moon over Makemake",
-      "date": "2016-04-30",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/1604/Makemakemoon100mile.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/1604/Makemakemoon100mile2000px.jpg",
-      "explanation": "Makemake, second brightest dwarf planet of the Kuiper belt, has a moon. Nicknamed MK2, Makemake's moon reflects sunlight with a charcoal-dark surface, about 1,300 times fainter than its parent body. Still, it was spotted in Hubble Space Telescope observations intended to search for faint companions with the same technique used to find the small satellites of Pluto. Just as for Pluto and its satellites, further observations of Makemake and orbiting moon will measure the system's mass and density and allow a broader understanding of the distant worlds. About 160 kilometers (100 miles) across compared to Makemake's 1,400 kilometer diameter, MK2's relative size and contrast are shown in this artist's vision. An imagined scene of an unexplored frontier of the Solar System, it looks back from a spacecraft's vantage as the dim Sun shines along the Milky Way. Of course, the Sun is over 50 times farther from Makemake than it is from planet Earth.",
-      "copyright": ""
-    },
-    {
-      "title": "Moon Meets Jupiter",
-      "date": "2012-07-20",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/1207/MJ_Fattinnanzi900.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/1207/MJ_Fattinnanzi2048.jpg",
-      "explanation": "Skygazers around planet Earth enjoyed the close encounter of planets and Moon in July 15's predawn skies. And while many saw bright Jupiter next to the slender, waning crescent, Europeans also had the opportunity to watch the ruling gas giant pass behind the lunar disk, occulted by the Moon as it slid through the night. Clouds threaten in this telescopic view from Montecassiano, Italy, but the frame still captures Jupiter after it emerged from the occultation along with all four of its large Galilean moons. The sunlit crescent is overexposed with the Moon's night side faintly illuminated by Earthshine. Lined up left to right beyond the dark lunar limb are Callisto, Ganymede, Jupiter, Io, and Europa.  In fact, Callisto, Ganymede, and Io are larger than Earth's Moon, while Europa is only slightly smaller.",
-      "copyright": "Cristian Fattinnanzi"
     }
   ]
 }
