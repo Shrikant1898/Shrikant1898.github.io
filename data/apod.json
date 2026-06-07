@@ -1,50 +1,41 @@
 {
   "source": "nasa-apod",
-  "updated": "2026-06-06T06:39:06.135Z",
+  "updated": "2026-06-07T07:14:22.303Z",
   "items": [
     {
-      "title": "An Iridescent Pileus Cloud over China",
-      "date": "2022-09-06",
+      "title": "IC 410 and NGC 1893",
+      "date": "2009-01-17",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/2209/Pileus_Jiaqi_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2209/Pileus_Jiaqi_4032.jpg",
-      "explanation": "Yes, but how many dark clouds have a multicolored lining? Pictured, behind this darker cloud, is a pileus iridescent cloud, a group of water droplets that have a uniformly similar size and so together diffract different colors of sunlight by different amounts.  The featured image was taken last month in Pu'er, Yunnan Province, China. Also captured were unusual cloud ripples above the pileus cloud.  The formation of a rare pileus cloud capping a common cumulus cloud is an indication that the lower cloud is expanding upward and might well develop into a storm.    Explore Your Universe: Random APOD Generator",
-      "copyright": "Jiaqi Sun （孙嘉琪）"
+      "url": "https://apod.nasa.gov/apod/image/0901/IC410_bassoe_c800.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0901/IC410_bassoe.jpg",
+      "explanation": "Dusty emission nebula IC 410 lies about 12,000 light-years away in the northern constellation Auriga. The cloud of glowing gas is over 100 light-years across, sculpted by stellar winds and radiation from embedded open star cluster NGC 1893. Formed in the interstellar cloud a mere 4 million years ago, bright cluster stars are seen just below the prominent dark dust cloud near picture center. Notable near the 7 o'clock position are two relatively dense streamers of material trailing away from the nebula's central regions. Potentially sites of ongoing star formation, these cosmic tadpole shapes are about 10 light-years long. Emission from sulfur atoms is shown in red, hydrogen atoms in green, and oxygen in blue hues in this false-color, narrow band composite image.",
+      "copyright": "Jacob Bassøe"
     },
     {
-      "title": "Moon Near the Edge",
-      "date": "2025-04-12",
+      "title": "Two Views of Earth",
+      "date": "2013-07-23",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/2504/PlataformaRecorteHorizontalRedes1024.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2504/PlataformaRecorteHorizontalRedes.jpg",
-      "explanation": "Most of us watch the Moon at night. But the Moon spends nearly as many daylight hours above our horizon, though in bright daytime skies the lunar disk looks pale and can be a little harder to see. Of course in daytime skies the Moon also appears to cycle through its phases, shining by reflected sunlight as it orbits our fair planet. For daytime moonwatchers, the Moon is probably easier to spot when the visible sunlit portion of the lunar disk is large and waxing following first quarter or waning approaching its third quarter phase. And though it might look unusual, a daytime moon is often seen even in urban skies. Captured here in a telephoto snapshot taken on March 12, a waxing daytime Moon is aligned near the edge of a popular observation deck that overlooks New York City's borough of Manahattan.",
-      "copyright": "Jordi Coy"
-    },
-    {
-      "title": "Satellites Collide in Low Earth Orbit",
-      "date": "2009-02-18",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0902/collidingsatellites_agi.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0902/collidingsatellites_agi_big.jpg",
-      "explanation": "How often do satellites collide? Although minuscule space debris may strike any satellite on occasion, the first known collision between time two full satellites occurred only last week. Even though thousands of satellites have been launched, the low collision rate is caused by the great vastness of space. Last week, however, a defunct Russian communications satellite named Cosmos 2251 smashed right into an operational US communications satellite named Iridium 33 over Siberia, Russia.  Both satellites were destroyed.  The sheer number of massive particles in a dispersing debris cloud, depicted in an inset image above, increases the risk that other operating satellites might be struck by a harmful fast-moving projectile.  The collision occurred in low Earth orbit only 750 kilometers up, a height shared by many satellites but significantly higher than the 350-km high human-occupied International Space Station.  Since satellites may disintegrate when struck by fast-moving space junk, the crash focuses concern that a future dramatic satellite collision may one day start an ablation cascade of increasingly more collisions.  The result could then render future human space flights increasingly risky and expensive satellite lifetimes increasingly short.",
-      "copyright": "Analytical Graphics, Inc."
-    },
-    {
-      "title": "Our Solar System from Voyager",
-      "date": "1995-08-19",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/solsys_vg1.gif",
-      "hdurl": "https://apod.nasa.gov/apod/image/solsys_vg1.gif",
-      "explanation": "August 19, 1995    Our Solar System from Voyager  Credit: NASA, Voyager 1,  Explanation:  After taking its spectacular pictures of the outer solar system planets,  Voyager 1  looked back at six planets from the inner solar system. Here Venus, Earth, Jupiter, Saturn, Uranus, and Neptune, were all visible across the sky. Each, however, was now just a small speck of light, dimmer than many of the stars in the sky. Voyager 1 is only one of four human-made objects to leave our Solar System, the other three being  Voyager 2, and  Pioneer 10 and 11.",
+      "url": "https://apod.nasa.gov/apod/image/1307/earth_cassinimessenger_960.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/1307/earth_cassinimessenger_1799.jpg",
+      "explanation": "In a cross-Solar System interplanetary first, our Earth was photographed during the same day from both Mercury and Saturn. Pictured on the left, Earth is the pale blue dot just below the rings of Saturn, as captured by the robotic Cassini spacecraft now orbiting the gas giant. Pictured on the right, the Earth-Moon system is seen against a dark background, as captured by the robotic MESSENGER spacecraft now orbiting Mercury. In the MESSENGER image, the Earth (left) and Moon (right) shine brightly with reflected sunlight. MESSENGER took the overexposed image last Friday as part of a search for small natural satellites of the innermost planet, moons that would be expected to be quite dim. During this same day, humans across planet Earth snapped many of their own pictures of Saturn.",
       "copyright": ""
     },
     {
-      "title": "The Coldest Brown Dwarf",
-      "date": "2011-08-30",
+      "title": "Aurora Over Alaska",
+      "date": "2007-04-09",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/1108/YdwarfField_wise.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/1108/YdwarfField_wise.jpg",
-      "explanation": "This cosmic snapshot composed with image data from NASA's Wide-field Infrared Survey Explorer (WISE) satellite captures a multitude of faint stars and distant galaxies toward the constellation Lyra at wavelengths longer than visible light. But the object circled at the center is not quite a star. Cataloged as WISE 1828+2650, it lies within 40 light-years of the Sun and is currently the coldest brown dwarf known. A brown dwarf begins like a star, with the gravitational collapse of a dense cloud of gas and dust, but is not massive enough to achieve the core temperatures and densities that trigger hydrogen fusion, the stable source of a star's energy. Instead the failed star ultimately cools and emits most of its light at infrared wavelengths. Remarkably, brown dwarfs are roughly the size of the planet Jupiter. How cold is WISE 1828+2650? While brown dwarfs have measured surface temperatures of up to 1,400 degrees C (2,600 degress F), this brown dwarf , assigned to spectral class Y, has the estimated temperature of a warm room, less than about 27 degrees C (80 degrees F).",
+      "url": "https://apod.nasa.gov/apod/image/0704/aurora1_wikipedia.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0704/aurora1_wikipedia_big.jpg",
+      "explanation": "Higher than the highest mountain, higher than the highest airplane, lies the realm of the aurora.  Aurora rarely reach below 60 kilometers, and can range up to 1000 kilometers.  Aurora light results from solar shockwave causing energetic electrons and protons to striking molecules in the Earth's atmosphere.  Frequently, when viewed from space, a complete aurora will appear as a circle around one of the Earth's magnetic poles.  The above digitally enhanced photograph was taken in 2005 January shows a spectacular aurora borealis above the frozen landscape of Bear Lake, Alaska, USA. The above image was voted Wikipedia Commons Picture of the Year for 2006.",
+      "copyright": ""
+    },
+    {
+      "title": "Discovery's Rainbow",
+      "date": "2009-09-02",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/0909/sts128_cooper900.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0909/sts128_cooper.jpg",
+      "explanation": "Just one minute before midnight EDT, Friday, August 28, the Space Shuttle Discovery began a long arc into a cloudy sky. Following the launch, a bright and remarkably colorful trail was captured in this time exposure from the Banana River Viewing Site, looking east toward pad 39A at the Kennedy Space Center. On STS-128, Discovery docked with the International Space Station Sunday evening. The 13-day mission will exchange space station crew members and deliver more than 7 tons of supplies and equipment. Of course, the equipment includes the Combined Operational Load Bearing External Resistance Treadmill (COLBERT).",
       "copyright": ""
     }
   ]
