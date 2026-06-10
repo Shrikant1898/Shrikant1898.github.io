@@ -1,42 +1,51 @@
 {
   "source": "nasa-apod",
-  "updated": "2026-06-07T07:14:22.303Z",
+  "updated": "2026-06-10T07:18:35.251Z",
   "items": [
     {
-      "title": "IC 410 and NGC 1893",
-      "date": "2009-01-17",
+      "title": "A Gamma-Ray Burst Supernova?",
+      "date": "1998-05-08",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0901/IC410_bassoe_c800.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0901/IC410_bassoe.jpg",
-      "explanation": "Dusty emission nebula IC 410 lies about 12,000 light-years away in the northern constellation Auriga. The cloud of glowing gas is over 100 light-years across, sculpted by stellar winds and radiation from embedded open star cluster NGC 1893. Formed in the interstellar cloud a mere 4 million years ago, bright cluster stars are seen just below the prominent dark dust cloud near picture center. Notable near the 7 o'clock position are two relatively dense streamers of material trailing away from the nebula's central regions. Potentially sites of ongoing star formation, these cosmic tadpole shapes are about 10 light-years long. Emission from sulfur atoms is shown in red, hydrogen atoms in green, and oxygen in blue hues in this false-color, narrow band composite image.",
-      "copyright": "Jacob Bassøe"
-    },
-    {
-      "title": "Two Views of Earth",
-      "date": "2013-07-23",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/1307/earth_cassinimessenger_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/1307/earth_cassinimessenger_1799.jpg",
-      "explanation": "In a cross-Solar System interplanetary first, our Earth was photographed during the same day from both Mercury and Saturn. Pictured on the left, Earth is the pale blue dot just below the rings of Saturn, as captured by the robotic Cassini spacecraft now orbiting the gas giant. Pictured on the right, the Earth-Moon system is seen against a dark background, as captured by the robotic MESSENGER spacecraft now orbiting Mercury. In the MESSENGER image, the Earth (left) and Moon (right) shine brightly with reflected sunlight. MESSENGER took the overexposed image last Friday as part of a search for small natural satellites of the innermost planet, moons that would be expected to be quite dim. During this same day, humans across planet Earth snapped many of their own pictures of Saturn.",
+      "url": "https://apod.nasa.gov/apod/image/9805/snorgrb_ntt.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/9805/snorgrb_ntt_big.jpg",
+      "explanation": "Did a gamma-ray burst precede this supernova? This intriguing suggestion came to light yesterday with the discovery of an evolving supernova that is potentially coincident with the position of gamma-ray burst GRB 980425, which occurred just two weeks ago.  If true, this would tie together the two most violent phenomena known in the universe. The supernova, indicated by the arrow, appears to be somewhat unusual, for one reason because of its extremely bright radio emission. The host galaxy has a redshift of 0.0085, placing it at the relatively close distance of about 125 million light years away.  Today it remains undetermined whether the two events are related - perhaps the evolution of the supernova over the next few weeks will provide some clues.",
       "copyright": ""
     },
     {
-      "title": "Aurora Over Alaska",
-      "date": "2007-04-09",
+      "title": "Venus: Earth's Cloudy Twin",
+      "date": "2004-05-16",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0704/aurora1_wikipedia.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0704/aurora1_wikipedia_big.jpg",
-      "explanation": "Higher than the highest mountain, higher than the highest airplane, lies the realm of the aurora.  Aurora rarely reach below 60 kilometers, and can range up to 1000 kilometers.  Aurora light results from solar shockwave causing energetic electrons and protons to striking molecules in the Earth's atmosphere.  Frequently, when viewed from space, a complete aurora will appear as a circle around one of the Earth's magnetic poles.  The above digitally enhanced photograph was taken in 2005 January shows a spectacular aurora borealis above the frozen landscape of Bear Lake, Alaska, USA. The above image was voted Wikipedia Commons Picture of the Year for 2006.",
+      "url": "https://apod.nasa.gov/apod/image/0405/venus2_gal.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0405/venus2_gal_big.gif",
+      "explanation": "This picture by the Galileo spacecraft shows just how cloudy Venus is.  Venus is very similar to Earth in size and mass - and so is sometimes referred to as Earth's sister planet - but Venus has a quite different climate.  Venus' thick clouds and closeness to the Sun (only Mercury is closer) make it the hottest planet - much hotter than the Earth.  Humans could not survive there, and no life of any sort has ever been found. When Venus is visible it is usually the brightest object in the sky after the Sun and the Moon.  More than 20 spacecraft have visited Venus including Venera 9, which landed on the surface, and Magellan, which used radar to peer through the clouds and make a map of the surface.  This visible light picture of Venus was taken by the Galileo spacecraft that orbited Jupiter from 1995 to 2003.  Many things about Venus remain unknown, including the cause of  mysterious bursts of radio waves.",
+      "copyright": "Calvin J. Hamilton"
+    },
+    {
+      "title": "X-rays and the Eagle Nebula",
+      "date": "2007-02-24",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/0702/m16composite_chandra720c.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0702/m16composite_chandra.jpg",
+      "explanation": "The premier Chandra X-ray Observatory images of M16, the Eagle Nebula, show many bright x-ray sources in the region. Most of the x-ray sources are energetic young stars. They are seen here as colored spots superimposed on the Hubble's well-known optical view of M16's light-year long Pillars of Creation. For example, a blue source near the tip of the large pillar at the upper left is estimated to be an embedded young star 4 or 5 times as massive as the Sun. Still, most of the x-ray sources are not coincident with the pillars themselves, indicating that embedded stars are not common in the dusty structures. The mostly empty pillars are thought to be an indication that star formation actually peaked millions of years ago within the Eagle Nebula.",
       "copyright": ""
     },
     {
-      "title": "Discovery's Rainbow",
-      "date": "2009-09-02",
+      "title": "The Milky Way's Center",
+      "date": "1995-09-08",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0909/sts128_cooper900.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0909/sts128_cooper.jpg",
-      "explanation": "Just one minute before midnight EDT, Friday, August 28, the Space Shuttle Discovery began a long arc into a cloudy sky. Following the launch, a bright and remarkably colorful trail was captured in this time exposure from the Banana River Viewing Site, looking east toward pad 39A at the Kennedy Space Center. On STS-128, Discovery docked with the International Space Station Sunday evening. The 13-day mission will exchange space station crew members and deliver more than 7 tons of supplies and equipment. Of course, the equipment includes the Combined Operational Load Bearing External Resistance Treadmill (COLBERT).",
+      "url": "https://apod.nasa.gov/apod/image/cobe_milkyw.gif",
+      "hdurl": "https://apod.nasa.gov/apod/image/cobe_milkyw.gif",
+      "explanation": "September 8, 1995    The Milky Way's Center Credit: NASA, COsmic Background Explorer (COBE) Project  Explanation:  NASA's COBE satellite scanned the heavens at infrared wavelengths in 1990 and produced this premier view of the central region of our own Milky Way Galaxy. The Milky Way is a typical spiral galaxy with a central bulge and extended disk of stars. However, gas and dust within the disk obscure visible wavelengths of light effectively preventing clear observations of the center. Since infrared wavelengths, are less affected by the obscuring material, the Diffuse InfraRed Background Experiment (DIRBE) on board COBE was able to detected infrared light from stars surrounding the galactic center and produce this image. Of course, the edge on perspective represents the view from the vicinity of our Sun, a star located in the disk about 30,000 light years out from the center. The DIRBE experiment used equipment cooled by a tub of liquid helium to detect the infrared light which, composed of wavelengths longer than red light, is invisible to the human eye.",
       "copyright": ""
+    },
+    {
+      "title": "AZURE Vapor Tracers over Norway",
+      "date": "2019-04-08",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/1904/AzurePlumesNorway_Sutie_960.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/1904/AzurePlumesNorway_Sutie_4242.jpg",
+      "explanation": "What's happening in the sky? The atmosphere over northern Norway appeared quite strange for about 30 minutes last Friday when colorful clouds, dots, and plumes suddenly appeared. The colors were actually created by the NASA-funded Auroral Zone Upwelling Rocket Experiment (AZURE) which dispersed gas tracers to probe winds in Earth's upper atmosphere. AZURE's tracers originated from two short-lived sounding rockets launched from the And�ya Space Center in Norway. The harmless gases, trimethylaluminum and a barium/strontium mixture, were released into the ionosphere at altitudes of 115 and 250 km.  The vapor trails were observed dispersing from several ground stations. Mapping how AZURE's vapors dispersed should increase humanity's understanding of how the solar wind transfers energy to the Earth and powers aurora.",
+      "copyright": "Yang Sutie"
     }
   ]
 }
