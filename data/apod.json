@@ -1,50 +1,50 @@
 {
   "source": "nasa-apod",
-  "updated": "2026-06-13T07:07:08.630Z",
+  "updated": "2026-06-16T09:05:02.226Z",
   "items": [
     {
-      "title": "Helios Helium",
-      "date": "2001-01-20",
+      "title": "ESO 184-G82: Supernova - Gamma Ray Burst Connection",
+      "date": "2002-02-28",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0101/hesun_eit.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0101/hesun_eit_big.gif",
-      "explanation": "This image of the active Sun was made using ultraviolet light emitted by ionized Helium atoms in the Solar chromosphere. Helium was first discovered in the Sun in 1868, its name fittingly derived from from the Greek word Helios, meaning Sun. Credit for the discovery goes to astronomer Joseph Norman Lockyer (born May 17, 1836). Lockyer relied on a then recently developed technique of spectroscopy, dissecting sunlight into a spectrum, and the idea that each element produces a characteristic spectral pattern of bright lines. He noticed a yellow line in a solar spectrum made during an eclipse which could not be accounted for by elements known on Earth. Almost 27 years later terrestrial Helium was finally discovered when the spectrum of a Helium bearing mineral of Uranium provided an exact match to the previously detected element of the Sun. Helium is now known to be the second most abundant element (after Hydrogen) in the Universe.",
+      "url": "https://apod.nasa.gov/apod/image/0202/eso184-g82_c3.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0202/eso184-g82_c1.jpg",
+      "explanation": "Modern astronomers keep a long list of things that go bump in the night. Near the top are supernovae - the death explosions of massive stars, and gamma-ray bursts - the most powerful explosions seen across the Universe. Intriguingly, the galaxy in the above Hubble Space Telescope image may have been host to both a supernova and a gamma-ray burst which were one and the same event. ESO 184-G82 is a spiral galaxy with a prominent central bar and loose spiral arms dotted with bright star-forming regions. The inset shows an expanded view of one of the star-forming regions, about 300 light-years across. Indicated is the location of an extraordinarily powerful supernova explosion whose light first reached planet Earth on April 25, 1998. That location and date also correspond to the detection of an unusual gamma-ray burst, which may be representative of a peculiar class of these cosmic high-energy flashes. So far, this combination is unique and makes barred spiral ESO 184-G82, at a distance of only 100 million light-years, the closest known gamma-ray burst host galaxy.",
       "copyright": ""
     },
     {
-      "title": "Europe at Night",
-      "date": "2005-12-07",
+      "title": "Interstellar Dust-Bunnies of NGC 891",
+      "date": "1998-03-18",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0512/eunight2_pv.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0512/eunight2_pv_big.jpg",
-      "explanation": "Can you find your favorite European city?  The above digital fantasy of Europe at Night is a digital composite of archived satellite images taken both during the day and night.  This image is different from what an astronaut would see for reasons including a complete lack of clouds and an unrealistic exaggeration of lights and contrasts.  Even so, the geography underlying the image is captivating.   Nighttime light patterns have been accumulated from the USAF Defense Meteorological Satellite Program (DMSP) Operational Linescan System.",
-      "copyright": "Planetary Visions Ltd.;\n Courtesy:  Kevin M. Tildsley"
+      "url": "https://apod.nasa.gov/apod/image/9803/ngc891_wiyn.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/9803/ngc891_wiyn_big.gif",
+      "explanation": "What is going on in NGC 891?  This galaxy appeared previously to be very similar to our own Milky Way Galaxy: a spiral galaxy seen nearly edge-on.  However, recent high-resolution images of NGC 891's dust show unusual filamentary patterns extending well away from its Galactic disk. This interstellar dust was probably thrown out of the galactic disk toward the halo by stellar supernovae explosions.  Because dust is so fragile, its appearance after surviving disk expulsion can be very telling. Newly discovered phenomena, however, sometimes appear so complex that more questions are raised than are answered.",
+      "copyright": "WIYN, \nInc., 3.5-m WIYN Telescope"
     },
     {
-      "title": "Glory and Fog Bow",
-      "date": "2024-08-03",
+      "title": "NGC 604: Giant Stellar Nursery",
+      "date": "2002-11-02",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/2408/GloryFog_label.png",
-      "hdurl": "https://apod.nasa.gov/apod/image/2408/GloryFog1.jpg",
-      "explanation": "On a road trip up Mount Uludağ in Bursa province, Turkey these motorcyclists found themselves above low clouds and fog in late June. With the bright Sun directly behind them, the view down the side of the great mountain revealed a beautiful, atmospheric glory and fog bow. Known to some as the heiligenschein or the Specter of the Brocken, a glory can also sometimes be seen from airplanes or even high buildings. It often appears to be a dark giant surrounded by a bright halo. Of course the dark giant is just the shadow of the observer (90MB video) cast opposite the Sun. The clouds and fog are composed of very small water droplets, smaller than rain drops, that refract and reflect sunlight to create the glory's colorful halo and this more extensive fog bow.",
-      "copyright": "Cem Özkeser"
+      "url": "https://apod.nasa.gov/apod/image/0211/ngc604_hst_c1.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0211/ngc604_hst_full.jpg",
+      "explanation": "Scattered within this cavernous nebula, cataloged as NGC 604, are over 200 newly formed hot, massive, stars. At 1,500 light-years across, this expansive cloud of interstellar gas and dust is effectively a giant stellar nursery located some three million light-years distant in the spiral galaxy, M33. The newborn stars irradiate the gas with energetic ultraviolet light stripping electrons from atoms and producing a characteristic nebular glow. The details of the nebula's structure hold clues to the mysteries of star formation and galaxy evolution.",
+      "copyright": ""
     },
     {
-      "title": "NGC 4755: A Jewel Box of Stars",
-      "date": "2001-06-18",
+      "title": "Mercury-Redstone 3 Launch",
+      "date": "2021-05-07",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0106/jewelbox_bessell.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0106/jewelbox_bessell_big.jpg",
-      "explanation": "The great variety of star colors in this open cluster underlies its name: The Jewel Box.  One of the bright central stars is a red supergiant, in contrast to the many blue stars that surround it.  The cluster, also known as Kappa Crucis contains just over 100 stars, and is about 10 million years old.  Open clusters are younger, contain few stars, and contain a much higher fraction of blue stars than do globular clusters.  This Jewel Box lies about 7500 light-years away, so the light that we see today was emitted from the cluster before even the Great Pyramids in Egypt were built.  The Jewel Box, pictured above, spans about 20 light-years, and can be seen with binoculars towards the southern constellation of Crux.",
-      "copyright": "Michael Bessell \n(RSAA, ANU), \nMSO"
+      "url": "https://apod.nasa.gov/apod/image/2105/6100884MR3_900.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2105/6100884MR3.jpg",
+      "explanation": "Sixty years ago, near the dawn of the space age, NASA controllers \"lit the candle\" and sent Mercury astronaut Alan Shepard arcing into space atop a Redstone rocket. His cramped space capsule was dubbed Freedom 7. Broadcast live to a global television audience, the historic Mercury-Redstone 3 (MR-3) spacecraft was launched from Cape Canaveral Florida at 9:34 a.m. Eastern Time on May 5, 1961. The flight of Freedom 7, the first space flight by an American, followed less than a month after the first human venture into space by Soviet Cosmonaut Yuri Gagarin. The 15 minute sub-orbital flight achieved an altitude of 116 miles and a maximum speed of 5,134 miles per hour. As Shepard looked back near the peak of Freedom 7's trajectory, he could see the outlines of the west coast of Florida, Lake Okeechobe in central Florida, the Gulf of Mexico, and the Bahamas. Shepard would later view planet Earth from a more distant perspective and walk on the Moon as commander of the Apollo 14 mission.",
+      "copyright": ""
     },
     {
-      "title": "Comet Machholz Approaches the Sun",
-      "date": "2017-11-13",
+      "title": "Curiosity at Murray Buttes on Mars",
+      "date": "2016-08-24",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/1711/CometMachholz2017_SOHO_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/1711/CometMachholz2017_SOHO_big.mp4",
-      "explanation": "Why is Comet Maccholz so depleted of carbon-containing chemicals?  Comet 96P/Machholz's original fame derives from its getting closer to the Sun than any other short period comet -- half as close as Mercury -- and doing so every five years. To better understand this unusual comet, NASA's Sun-monitoring SOHO spacecraft tracked the comet during its latest approach to the Sun in October.  The featured image composite shows the tail-enhanced comet swooping past the Sun. The Sun's bright surface is hidden from view behind a dark occulter, although parts of the Sun's extended corona are visible. Neighboring stars dot the background. One hypothesis holds that these close solar approaches somehow cause Comet Machholz to shed its carbon, while another hypothesis posits that the comet formed with this composition far away -- possibly even in another star system.    Free APOD Lectures: January 5 in NYC & January 9 in DC",
+      "url": "https://apod.nasa.gov/apod/image/1608/MurrayButtes_Curiosity_960.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/1608/MurrayButtes_Curiosity_10253.jpg",
+      "explanation": "What are these unusual lumps on Mars?  As NASA's robotic Curiosity rover continues rolling across Mars, it is now approaching Murray Buttes. Several of the 15-meter high buttes are visible ahead in this horizontally compressed 360-degree across image taken inside Gale Crater earlier this month.  The buttes are thought similar to Earth buttes in that they are capped with dense rock that is relatively resistant to erosion. In the image center is Curiosity's \"arm\" and \"hand\" used to examine rocks up close, drill into rocks, and collect samples.  Curiosity has reached its four year anniversary on Mars and has been cleared to spend the next two years further exploring the slopes of Mount Sharp, the peak of which is the distant light-colored structure visible on the far left.    Interactive View: YouTube 360-degree tilt and scroll image version",
       "copyright": ""
     }
   ]
