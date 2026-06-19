@@ -1,51 +1,42 @@
 {
   "source": "nasa-apod",
-  "updated": "2026-06-16T09:05:02.226Z",
+  "updated": "2026-06-19T08:41:28.149Z",
   "items": [
     {
-      "title": "ESO 184-G82: Supernova - Gamma Ray Burst Connection",
-      "date": "2002-02-28",
+      "title": "LL Ori and the Orion Nebula",
+      "date": "2018-02-18",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0202/eso184-g82_c3.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0202/eso184-g82_c1.jpg",
-      "explanation": "Modern astronomers keep a long list of things that go bump in the night. Near the top are supernovae - the death explosions of massive stars, and gamma-ray bursts - the most powerful explosions seen across the Universe. Intriguingly, the galaxy in the above Hubble Space Telescope image may have been host to both a supernova and a gamma-ray burst which were one and the same event. ESO 184-G82 is a spiral galaxy with a prominent central bar and loose spiral arms dotted with bright star-forming regions. The inset shows an expanded view of one of the star-forming regions, about 300 light-years across. Indicated is the location of an extraordinarily powerful supernova explosion whose light first reached planet Earth on April 25, 1998. That location and date also correspond to the detection of an unusual gamma-ray burst, which may be representative of a peculiar class of these cosmic high-energy flashes. So far, this combination is unique and makes barred spiral ESO 184-G82, at a distance of only 100 million light-years, the closest known gamma-ray burst host galaxy.",
+      "url": "https://apod.nasa.gov/apod/image/1802/LLOri_hubble_960.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/1802/LLOri_hubble_4806.jpg",
+      "explanation": "Stars can make waves in the Orion Nebula's sea of gas and dust.  This esthetic close-up of cosmic clouds and stellar winds features LL Orionis, interacting with the Orion Nebula flow. Adrift in Orion's stellar nursery and still in its formative years, variable star LL Orionis produces a wind more energetic than the wind from our own middle-aged Sun. As the fast stellar wind runs into slow moving gas a shock front is formed, analogous to the bow wave of a boat moving through water or a plane traveling at supersonic speed. The small, arcing, graceful structure just above and left of center is LL Ori's cosmic bow shock, measuring about half a light-year across. The slower gas is flowing away from the Orion Nebula's hot central star cluster, the Trapezium, located off the upper left corner of the picture. In three dimensions, LL Ori's wrap-around shock front is shaped like a bowl that appears brightest when viewed along the \"bottom\" edge. This beautiful painting-like photograph is part of a large mosaic view of the complex stellar nursery in Orion, filled with a myriad of fluid shapes associated with star formation.",
       "copyright": ""
     },
     {
-      "title": "Interstellar Dust-Bunnies of NGC 891",
-      "date": "1998-03-18",
+      "title": "Gamma Ray Crab, Geminga",
+      "date": "1995-06-24",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/9803/ngc891_wiyn.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/9803/ngc891_wiyn_big.gif",
-      "explanation": "What is going on in NGC 891?  This galaxy appeared previously to be very similar to our own Milky Way Galaxy: a spiral galaxy seen nearly edge-on.  However, recent high-resolution images of NGC 891's dust show unusual filamentary patterns extending well away from its Galactic disk. This interstellar dust was probably thrown out of the galactic disk toward the halo by stellar supernovae explosions.  Because dust is so fragile, its appearance after surviving disk expulsion can be very telling. Newly discovered phenomena, however, sometimes appear so complex that more questions are raised than are answered.",
-      "copyright": "WIYN, \nInc., 3.5-m WIYN Telescope"
-    },
-    {
-      "title": "NGC 604: Giant Stellar Nursery",
-      "date": "2002-11-02",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0211/ngc604_hst_c1.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0211/ngc604_hst_full.jpg",
-      "explanation": "Scattered within this cavernous nebula, cataloged as NGC 604, are over 200 newly formed hot, massive, stars. At 1,500 light-years across, this expansive cloud of interstellar gas and dust is effectively a giant stellar nursery located some three million light-years distant in the spiral galaxy, M33. The newborn stars irradiate the gas with energetic ultraviolet light stripping electrons from atoms and producing a characteristic nebular glow. The details of the nebula's structure hold clues to the mysteries of star formation and galaxy evolution.",
+      "url": "https://apod.nasa.gov/apod/image/gamma_crab.gif",
+      "hdurl": "https://apod.nasa.gov/apod/image/gamma_crab.gif",
+      "explanation": "The Crab Nebula and Geminga in Gamma Rays  Picture Credit: NASA, Compton Gamma Ray Observatory  Explanation:  What if you could \"see\" in gamma-rays? If you could, these two spinning neutron stars or pulsars would be among the brightest objects in the sky. This computer processed image shows the Crab Nebula pulsar (below and right of center) and the Geminga pulsar (above and left of center) in the \"light\" of gamma-rays. Gamma-ray photons are more than 10,000 times more energetic than visible light photons and are blocked from the Earths's surface by the atmosphere. This image was produced by the high energy gamma-ray telescope \"EGRET\" on board NASA's orbiting Compton Observatory satellite. For more information see Compton Science Support Center release.   We keep an archive of previous Astronomy Pictures of the Day.   The sky is filled with breathtaking pictures, many of which are available on the World Wide Web. Each day we feature a different picture of some part of our fascinating universe, along with a brief explanation written by a professional astronomer.  Astronomy Picture of the Day is brought to you by  Robert Nemiroff and  Jerry Bonnell . Original material on this page is copyrighted to Robert J. Nemiroff and Jerry T. Bonnell.",
       "copyright": ""
     },
     {
-      "title": "Mercury-Redstone 3 Launch",
-      "date": "2021-05-07",
+      "title": "Blood Moon, Ice Giant",
+      "date": "2022-11-11",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/2105/6100884MR3_900.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2105/6100884MR3.jpg",
-      "explanation": "Sixty years ago, near the dawn of the space age, NASA controllers \"lit the candle\" and sent Mercury astronaut Alan Shepard arcing into space atop a Redstone rocket. His cramped space capsule was dubbed Freedom 7. Broadcast live to a global television audience, the historic Mercury-Redstone 3 (MR-3) spacecraft was launched from Cape Canaveral Florida at 9:34 a.m. Eastern Time on May 5, 1961. The flight of Freedom 7, the first space flight by an American, followed less than a month after the first human venture into space by Soviet Cosmonaut Yuri Gagarin. The 15 minute sub-orbital flight achieved an altitude of 116 miles and a maximum speed of 5,134 miles per hour. As Shepard looked back near the peak of Freedom 7's trajectory, he could see the outlines of the west coast of Florida, Lake Okeechobe in central Florida, the Gulf of Mexico, and the Bahamas. Shepard would later view planet Earth from a more distant perspective and walk on the Moon as commander of the Apollo 14 mission.",
-      "copyright": ""
+      "url": "https://apod.nasa.gov/apod/image/2211/LunarEclipseRyanHan1024.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2211/LunarEclipseRyanHan.jpg",
+      "explanation": "On November 8 the Full Moon turned blood red as it slid through Earth's shadow in a beautiful total lunar eclipse. During totality it also passed in front of, or occulted, outer planet Uranus for eclipse viewers located in parts of northern America and Asia. For a close-up and wider view these two images were taken just before the occultation began, captured with different telescopes and cameras from the same roof top in Shanghai, China. Normally very faint compared to a Full Moon, the tiny, pale, greenish disk of the distant ice giant is just to the left of the Moon's edge and about to disappear behind the darkened, red lunar limb. Though only visible from certain locations across planet Earth, lunar occultations of planets are fairly common. But for this rare \"lunar eclipse occultation\" to take place, at the time of the total eclipse the outer planet had to be both at opposition and very near the ecliptic plane to fall in line with Sun, Earth, and Moon.   Lunar Eclipse of November 2022: Notable Submissions to APOD  Love Eclipses? (US): Apply to become a NASA Partner Eclipse Ambassador",
+      "copyright": "Ryan Han"
     },
     {
-      "title": "Curiosity at Murray Buttes on Mars",
-      "date": "2016-08-24",
+      "title": "Betelgeuse Eclipsed",
+      "date": "2023-12-15",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/1608/MurrayButtes_Curiosity_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/1608/MurrayButtes_Curiosity_10253.jpg",
-      "explanation": "What are these unusual lumps on Mars?  As NASA's robotic Curiosity rover continues rolling across Mars, it is now approaching Murray Buttes. Several of the 15-meter high buttes are visible ahead in this horizontally compressed 360-degree across image taken inside Gale Crater earlier this month.  The buttes are thought similar to Earth buttes in that they are capped with dense rock that is relatively resistant to erosion. In the image center is Curiosity's \"arm\" and \"hand\" used to examine rocks up close, drill into rocks, and collect samples.  Curiosity has reached its four year anniversary on Mars and has been cleared to spend the next two years further exploring the slopes of Mount Sharp, the peak of which is the distant light-colored structure visible on the far left.    Interactive View: YouTube 360-degree tilt and scroll image version",
-      "copyright": ""
+      "url": "https://apod.nasa.gov/apod/image/2312/OrionBetelgeuse_occultation1024.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2312/OrionBetelgeuse_occultation.jpg",
+      "explanation": "Asteroid 319 Leona cast a shadow across planet Earth on December 12, as it passed in front of bright star Betelgeuse. But to see everyone's favorite red giant star fade this time, you had to stand near the center line of the narrow shadow path starting in central Mexico and extending eastward across southern Florida, the Atlantic Ocean, southern Europe, and Eurasia. The geocentric celestial event was captured in these two panels taken at Almodovar del Rio, Spain from before (left) and during the asteroid-star occultation. In both panels Betelgeuse is seen above and left, at the shoulder of the familiar constellation Orion. Its brightness diminishes noticeably during the exceedingly rare occultation when, for several seconds, the giant star was briefly eclipsed by a roughly 60 kilometer diameter main-belt asteroid.",
+      "copyright": "Sebastian Voltmer"
     }
   ]
 }
