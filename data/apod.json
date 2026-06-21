@@ -1,42 +1,42 @@
 {
   "source": "nasa-apod",
-  "updated": "2026-06-19T08:41:28.149Z",
+  "updated": "2026-06-21T08:12:04.015Z",
   "items": [
     {
-      "title": "LL Ori and the Orion Nebula",
-      "date": "2018-02-18",
+      "title": "Southern Cross over Chilean Volcano",
+      "date": "2021-01-25",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/1802/LLOri_hubble_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/1802/LLOri_hubble_4806.jpg",
-      "explanation": "Stars can make waves in the Orion Nebula's sea of gas and dust.  This esthetic close-up of cosmic clouds and stellar winds features LL Orionis, interacting with the Orion Nebula flow. Adrift in Orion's stellar nursery and still in its formative years, variable star LL Orionis produces a wind more energetic than the wind from our own middle-aged Sun. As the fast stellar wind runs into slow moving gas a shock front is formed, analogous to the bow wave of a boat moving through water or a plane traveling at supersonic speed. The small, arcing, graceful structure just above and left of center is LL Ori's cosmic bow shock, measuring about half a light-year across. The slower gas is flowing away from the Orion Nebula's hot central star cluster, the Trapezium, located off the upper left corner of the picture. In three dimensions, LL Ori's wrap-around shock front is shaped like a bowl that appears brightest when viewed along the \"bottom\" edge. This beautiful painting-like photograph is part of a large mosaic view of the complex stellar nursery in Orion, filled with a myriad of fluid shapes associated with star formation.",
+      "url": "https://apod.nasa.gov/apod/image/2101/SouthernCross_Slovinsky_960.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2101/SouthernCross_Slovinsky_3000.jpg",
+      "explanation": "Have you ever seen the Southern Cross? This famous four-star icon is best seen from Earth's Southern Hemisphere. The featured image was taken last month in Chile and captures the Southern Cross just to the left of erupting Villarrica, one of the most active volcanos in our Solar System.  Connecting the reddest Southern Cross star Gacrux through the brightest star  Acrux points near the most southern location in the sky: the South Celestial Pole (SCP), around which all southern stars appear to spin as the Earth turns. In modern times, no bright star resides near the SCP, unlike in the north where bright Polaris now appears near the NCP.  Extending the Gacrux - Acrux line still further (from about four to about seven times their angular separation) leads near the Small Magellanic Cloud, a bright satellite galaxy of our Milky Way Galaxy.  The Southern Cross asterism dominates the Crux constellation, a deeper array of stars that includes four Cepheid variable stars visible to the unaided eye. Just above the volcano in the image, and looking like a dark plume, is the Coalsack Nebula, while the large red star-forming Carina Nebula is visible on the upper left.   Portal Universe: Random APOD Generator",
+      "copyright": "Tomáš Slovinský"
+    },
+    {
+      "title": "Young Star Cluster Westerlund 2",
+      "date": "2008-01-31",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/0801/wd2_xrayir_c790.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0801/wd2_xrayir.jpg",
+      "explanation": "Dusty stellar nursery RCW 49 surrounds young star cluster Westerlund 2 in this remarkable composite skyscape from beyond the visible spectrum of light. Infrared data from the Spitzer Space Telescope is shown in black and white, complimenting the Chandra X-ray image data (in false color) of the hot energetic stars within the cluster's central region. Looking toward the grand southern constellation Centaurus, both views reveal stars and structures hidden from optical telescopes by obscuring dust. Westerlund 2 itself is a mere 2 million years old or less, and contains some of our galaxy's most luminous, massive and therefore short-lived stars. The infrared signatures of proto-planetary disks have also been identified in the intense star forming region. At the cluster's estimated distance of 20,000 light-years, the square marking the Chandra field of view would be about 50 light-years on a side.",
       "copyright": ""
     },
     {
-      "title": "Gamma Ray Crab, Geminga",
-      "date": "1995-06-24",
+      "title": "Discovery's Rainbow",
+      "date": "2009-09-02",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/gamma_crab.gif",
-      "hdurl": "https://apod.nasa.gov/apod/image/gamma_crab.gif",
-      "explanation": "The Crab Nebula and Geminga in Gamma Rays  Picture Credit: NASA, Compton Gamma Ray Observatory  Explanation:  What if you could \"see\" in gamma-rays? If you could, these two spinning neutron stars or pulsars would be among the brightest objects in the sky. This computer processed image shows the Crab Nebula pulsar (below and right of center) and the Geminga pulsar (above and left of center) in the \"light\" of gamma-rays. Gamma-ray photons are more than 10,000 times more energetic than visible light photons and are blocked from the Earths's surface by the atmosphere. This image was produced by the high energy gamma-ray telescope \"EGRET\" on board NASA's orbiting Compton Observatory satellite. For more information see Compton Science Support Center release.   We keep an archive of previous Astronomy Pictures of the Day.   The sky is filled with breathtaking pictures, many of which are available on the World Wide Web. Each day we feature a different picture of some part of our fascinating universe, along with a brief explanation written by a professional astronomer.  Astronomy Picture of the Day is brought to you by  Robert Nemiroff and  Jerry Bonnell . Original material on this page is copyrighted to Robert J. Nemiroff and Jerry T. Bonnell.",
+      "url": "https://apod.nasa.gov/apod/image/0909/sts128_cooper900.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0909/sts128_cooper.jpg",
+      "explanation": "Just one minute before midnight EDT, Friday, August 28, the Space Shuttle Discovery began a long arc into a cloudy sky. Following the launch, a bright and remarkably colorful trail was captured in this time exposure from the Banana River Viewing Site, looking east toward pad 39A at the Kennedy Space Center. On STS-128, Discovery docked with the International Space Station Sunday evening. The 13-day mission will exchange space station crew members and deliver more than 7 tons of supplies and equipment. Of course, the equipment includes the Combined Operational Load Bearing External Resistance Treadmill (COLBERT).",
       "copyright": ""
     },
     {
-      "title": "Blood Moon, Ice Giant",
-      "date": "2022-11-11",
+      "title": "Messier 24: Sagittarius Star Cloud",
+      "date": "2024-07-18",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/2211/LunarEclipseRyanHan1024.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2211/LunarEclipseRyanHan.jpg",
-      "explanation": "On November 8 the Full Moon turned blood red as it slid through Earth's shadow in a beautiful total lunar eclipse. During totality it also passed in front of, or occulted, outer planet Uranus for eclipse viewers located in parts of northern America and Asia. For a close-up and wider view these two images were taken just before the occultation began, captured with different telescopes and cameras from the same roof top in Shanghai, China. Normally very faint compared to a Full Moon, the tiny, pale, greenish disk of the distant ice giant is just to the left of the Moon's edge and about to disappear behind the darkened, red lunar limb. Though only visible from certain locations across planet Earth, lunar occultations of planets are fairly common. But for this rare \"lunar eclipse occultation\" to take place, at the time of the total eclipse the outer planet had to be both at opposition and very near the ecliptic plane to fall in line with Sun, Earth, and Moon.   Lunar Eclipse of November 2022: Notable Submissions to APOD  Love Eclipses? (US): Apply to become a NASA Partner Eclipse Ambassador",
-      "copyright": "Ryan Han"
-    },
-    {
-      "title": "Betelgeuse Eclipsed",
-      "date": "2023-12-15",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/2312/OrionBetelgeuse_occultation1024.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2312/OrionBetelgeuse_occultation.jpg",
-      "explanation": "Asteroid 319 Leona cast a shadow across planet Earth on December 12, as it passed in front of bright star Betelgeuse. But to see everyone's favorite red giant star fade this time, you had to stand near the center line of the narrow shadow path starting in central Mexico and extending eastward across southern Florida, the Atlantic Ocean, southern Europe, and Eurasia. The geocentric celestial event was captured in these two panels taken at Almodovar del Rio, Spain from before (left) and during the asteroid-star occultation. In both panels Betelgeuse is seen above and left, at the shoulder of the familiar constellation Orion. Its brightness diminishes noticeably during the exceedingly rare occultation when, for several seconds, the giant star was briefly eclipsed by a roughly 60 kilometer diameter main-belt asteroid.",
-      "copyright": "Sebastian Voltmer"
+      "url": "https://apod.nasa.gov/apod/image/2407/M24-HaLRGB-RC51_1024.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2407/M24-HaLRGB-RC51_2048.jpg",
+      "explanation": "Unlike most entries in Charles Messier's famous catalog of deep sky objects, M24 is not a bright galaxy, star cluster, or nebula. It's a gap in nearby, obscuring interstellar dust clouds that allows a view of the distant stars in the Sagittarius spiral arm of our Milky Way galaxy. Direct your gaze through this gap with binoculars or small telescope and you are looking through a window over 300 light-years wide at stars some 10,000 light-years or more from Earth. Sometimes called the Small Sagittarius Star Cloud, M24's luminous stars are left of center in this gorgeous starscape.  Covering over 6 degrees or the width of 12 full moons in the constellation Sagittarius, the telescopic field of view includes dark markings B92 and B93 near the center of M24, along with other clouds of dust and glowing nebulae toward the center of the Milky Way.",
+      "copyright": "Christopher Freeburn"
     }
   ]
 }
