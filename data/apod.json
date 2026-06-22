@@ -1,42 +1,51 @@
 {
   "source": "nasa-apod",
-  "updated": "2026-06-21T08:12:04.015Z",
+  "updated": "2026-06-22T09:22:42.548Z",
   "items": [
     {
-      "title": "Southern Cross over Chilean Volcano",
-      "date": "2021-01-25",
+      "title": "A Dark and Dusty Sky",
+      "date": "2015-05-22",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/2101/SouthernCross_Slovinsky_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2101/SouthernCross_Slovinsky_3000.jpg",
-      "explanation": "Have you ever seen the Southern Cross? This famous four-star icon is best seen from Earth's Southern Hemisphere. The featured image was taken last month in Chile and captures the Southern Cross just to the left of erupting Villarrica, one of the most active volcanos in our Solar System.  Connecting the reddest Southern Cross star Gacrux through the brightest star  Acrux points near the most southern location in the sky: the South Celestial Pole (SCP), around which all southern stars appear to spin as the Earth turns. In modern times, no bright star resides near the SCP, unlike in the north where bright Polaris now appears near the NCP.  Extending the Gacrux - Acrux line still further (from about four to about seven times their angular separation) leads near the Small Magellanic Cloud, a bright satellite galaxy of our Milky Way Galaxy.  The Southern Cross asterism dominates the Crux constellation, a deeper array of stars that includes four Cepheid variable stars visible to the unaided eye. Just above the volcano in the image, and looking like a dark plume, is the Coalsack Nebula, while the large red star-forming Carina Nebula is visible on the upper left.   Portal Universe: Random APOD Generator",
-      "copyright": "Tomáš Slovinský"
+      "url": "https://apod.nasa.gov/apod/image/1505/vdb27-Pnl1-2-LBN777-Rosen1078x.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/1505/vdb27-Pnl1-2-LBN777-Rosen2048x.jpg",
+      "explanation": "In the dusty sky toward the constellation Taurus and the Orion Arm of our Milky Way Galaxy, this broad mosaic follows dark and faint reflection nebulae along the region's fertile molecular cloud. The six degree wide field of view starts with long dark nebula LDN 1495 stretching from the lower left, and extends beyond the (upside down) bird-like visage of the Baby Eagle Nebula, LBN 777, at lower right. Small bluish reflection nebulae surround scattered fainter Taurus stars, sights often skipped over in favor of the constellation's better known, brighter celestial spectacles. Associated with the young, variable star RY Tau, the yellowish nebula VdB 27 is toward the upper left. Only 400 light-years or so distant, the Taurus molecular cloud is one of the closest regions of low-mass star formation. At that distance this dark vista would span over 40 light-years.",
+      "copyright": "Scott Rosen"
     },
     {
-      "title": "Young Star Cluster Westerlund 2",
-      "date": "2008-01-31",
+      "title": "Mars and the Beehive",
+      "date": "2023-06-10",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0801/wd2_xrayir_c790.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0801/wd2_xrayir.jpg",
-      "explanation": "Dusty stellar nursery RCW 49 surrounds young star cluster Westerlund 2 in this remarkable composite skyscape from beyond the visible spectrum of light. Infrared data from the Spitzer Space Telescope is shown in black and white, complimenting the Chandra X-ray image data (in false color) of the hot energetic stars within the cluster's central region. Looking toward the grand southern constellation Centaurus, both views reveal stars and structures hidden from optical telescopes by obscuring dust. Westerlund 2 itself is a mere 2 million years old or less, and contains some of our galaxy's most luminous, massive and therefore short-lived stars. The infrared signatures of proto-planetary disks have also been identified in the intense star forming region. At the cluster's estimated distance of 20,000 light-years, the square marking the Chandra field of view would be about 50 light-years on a side.",
+      "url": "https://apod.nasa.gov/apod/image/2306/Marte-M44_230603_800.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2306/Marte-M44_230603.jpg",
+      "explanation": "This month, bright Mars and brilliant Venus are the prominent celestial beacons in planet Earth's western skies after sunset. Wandering through the constellation Cancer the Crab, the Red Planet was captured here on the evening of June 3 near the stars of open cluster Messier 44. Recognized since antiquity this nearby, naked-eye star cluster is also known as the Praesepe or the Beehive cluster. A swarm of stars all much younger than the Sun, the Beehive cluster is a mere 600 light-years distant. Seen with a yellowish hue, Mars is about 17 light-minutes away. On June 12/13 Venus will take its turn posing next to the stars of the Beehive cluster. But the dazzling light of Venus will make the Beehive stars difficult to see by eye alone.",
+      "copyright": "This month, bright Mars and brilliant Venus"
+    },
+    {
+      "title": "Methane Bubbles Frozen in Lake Baikal",
+      "date": "2018-12-18",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/1812/BaikalBubbles_Makeeva_960.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/1812/BaikalBubbles_Makeeva_1000.jpg",
+      "explanation": "What are these bubbles frozen into Lake Baikal? Methane.  Lake Baikal, a UNESCO World Heritage Site in Russia, is the world's largest (by volume), oldest, and deepest lake, containing over 20% of the world's fresh water. The lake is also a vast storehouse of methane, a greenhouse gas that, if released, could potentially increase the amount of infrared light absorbed by Earth's atmosphere, and so increase the average temperature of the entire planet. Fortunately, the amount of methane currently bubbling out is not climatologically important. It is not clear what would happen, though, were temperatures to significantly increase in the region, or if the water level in Lake Baikal were to drop.  Pictured, bubbles of rising methane froze during winter into the exceptionally clear ice covering the lake.",
+      "copyright": "Kristina Makeeva"
+    },
+    {
+      "title": "Halloween and the Ghost Head Nebula",
+      "date": "2001-10-31",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/0110/ngc2080_hst.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0110/ngc2080_hst_big.jpg",
+      "explanation": "Halloween's origin is ancient and astronomical.  Since the fifth century BC, Halloween has been celebrated as a cross-quarter day, a day halfway between an equinox (equal day / equal night) and a solstice (minimum day / maximum night in the northern hemisphere).  With our modern calendar, however, the real cross-quarter day will occur next week.  Another cross-quarter day is Groundhog's Day. Halloween's modern celebration retains historic roots in dressing to scare away the spirits of the dead.  A perhaps-fitting modern tribute to this ancient holiday is the above-pictured Ghost Head Nebula taken with the Hubble Space Telescope.  Appearing similar to the icon of a fictional ghost, NGC 2080 is actually a star forming region in the Large Magellanic Cloud, a satellite galaxy of our own Milky Way Galaxy.  The Ghost Head Nebula spans about 50 light-years and is shown in representative colors.",
       "copyright": ""
     },
     {
-      "title": "Discovery's Rainbow",
-      "date": "2009-09-02",
+      "title": "Three Dusty Stars",
+      "date": "1998-04-23",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0909/sts128_cooper900.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0909/sts128_cooper.jpg",
-      "explanation": "Just one minute before midnight EDT, Friday, August 28, the Space Shuttle Discovery began a long arc into a cloudy sky. Following the launch, a bright and remarkably colorful trail was captured in this time exposure from the Banana River Viewing Site, looking east toward pad 39A at the Kennedy Space Center. On STS-128, Discovery docked with the International Space Station Sunday evening. The 13-day mission will exchange space station crew members and deliver more than 7 tons of supplies and equipment. Of course, the equipment includes the Combined Operational Load Bearing External Resistance Treadmill (COLBERT).",
+      "url": "https://apod.nasa.gov/apod/image/9804/starsdisks3_jcm.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/9804/starsdisks3_jcm_big.jpg",
+      "explanation": "These separate radio images reveal three dusty debris disks surrounding three bright, young, nearby stars - evidence for solar systems in formation. From left to right are the stars Fomalhaut, Beta Pictoris, and Vega, their positions indicated by star symbols. The false color maps show the intensity of submillimeter radio emission from the surrounding dust. Next to each dust \"disk\", a vertical bar illustrates the present size of our own solar system. These observations are likely examples of what our solar system would have looked like to distant radio astronomers when it was only a few hundred million years old! Astronomers speculate that bright blobs of emission near Vega and Beta Pictoris may represent dust clouds around developing giant planets. The radio images were made using detectors cooled to near absolute zero and the James Clerk Maxwell Telescope at Mauna Kea Observatory in Hawaii.",
       "copyright": ""
-    },
-    {
-      "title": "Messier 24: Sagittarius Star Cloud",
-      "date": "2024-07-18",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/2407/M24-HaLRGB-RC51_1024.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2407/M24-HaLRGB-RC51_2048.jpg",
-      "explanation": "Unlike most entries in Charles Messier's famous catalog of deep sky objects, M24 is not a bright galaxy, star cluster, or nebula. It's a gap in nearby, obscuring interstellar dust clouds that allows a view of the distant stars in the Sagittarius spiral arm of our Milky Way galaxy. Direct your gaze through this gap with binoculars or small telescope and you are looking through a window over 300 light-years wide at stars some 10,000 light-years or more from Earth. Sometimes called the Small Sagittarius Star Cloud, M24's luminous stars are left of center in this gorgeous starscape.  Covering over 6 degrees or the width of 12 full moons in the constellation Sagittarius, the telescopic field of view includes dark markings B92 and B93 near the center of M24, along with other clouds of dust and glowing nebulae toward the center of the Milky Way.",
-      "copyright": "Christopher Freeburn"
     }
   ]
 }
