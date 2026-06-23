@@ -1,51 +1,51 @@
 {
   "source": "nasa-apod",
-  "updated": "2026-06-22T09:22:42.548Z",
+  "updated": "2026-06-23T07:00:06.609Z",
   "items": [
     {
-      "title": "A Dark and Dusty Sky",
-      "date": "2015-05-22",
+      "title": "Running Messier's Marathon",
+      "date": "2008-04-19",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/1505/vdb27-Pnl1-2-LBN777-Rosen1078x.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/1505/vdb27-Pnl1-2-LBN777-Rosen2048x.jpg",
-      "explanation": "In the dusty sky toward the constellation Taurus and the Orion Arm of our Milky Way Galaxy, this broad mosaic follows dark and faint reflection nebulae along the region's fertile molecular cloud. The six degree wide field of view starts with long dark nebula LDN 1495 stretching from the lower left, and extends beyond the (upside down) bird-like visage of the Baby Eagle Nebula, LBN 777, at lower right. Small bluish reflection nebulae surround scattered fainter Taurus stars, sights often skipped over in favor of the constellation's better known, brighter celestial spectacles. Associated with the young, variable star RY Tau, the yellowish nebula VdB 27 is toward the upper left. Only 400 light-years or so distant, the Taurus molecular cloud is one of the closest regions of low-mass star formation. At that distance this dark vista would span over 40 light-years.",
-      "copyright": "Scott Rosen"
+      "url": "https://apod.nasa.gov/apod/image/0804/Marathon8_abolfath800.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0804/Marathon8_abolfath.jpg",
+      "explanation": "Gripped by an astronomical spring fever, many northern hemisphere stargazers embark on a Messier Marathon. Completing the marathon requires viewing all 110 objects in 18th century French astronomer Charles Messier's catalog in one glorious dusk-to-dawn observing run. As daunting as it sounds, there are often favorable weekend dates for completing the task that fall on nearly moonless nights near the March equinox. This colorful, six hour long time exposure of a group dedicated to running this year's Messier marathon includes celestial star trails along with terrestrial lighting trails from about 200 amateur astronomers. It was recorded from the isolated, ancient Bahram Palace in northern Iran's Kavir National Park. Astronomer and former Messier Marathon organizer for the ASIAC Babak Tafreshi offers this intriguing time-lapse movie (2MB wmv file) of the event.",
+      "copyright": "Amir\nHossein Abolfath"
     },
     {
-      "title": "Mars and the Beehive",
-      "date": "2023-06-10",
+      "title": "Asteroids in the Distance",
+      "date": "2021-01-31",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/2306/Marte-M44_230603_800.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2306/Marte-M44_230603.jpg",
-      "explanation": "This month, bright Mars and brilliant Venus are the prominent celestial beacons in planet Earth's western skies after sunset. Wandering through the constellation Cancer the Crab, the Red Planet was captured here on the evening of June 3 near the stars of open cluster Messier 44. Recognized since antiquity this nearby, naked-eye star cluster is also known as the Praesepe or the Beehive cluster. A swarm of stars all much younger than the Sun, the Beehive cluster is a mere 600 light-years distant. Seen with a yellowish hue, Mars is about 17 light-minutes away. On June 12/13 Venus will take its turn posing next to the stars of the Beehive cluster. But the dazzling light of Venus will make the Beehive stars difficult to see by eye alone.",
-      "copyright": "This month, bright Mars and brilliant Venus"
-    },
-    {
-      "title": "Methane Bubbles Frozen in Lake Baikal",
-      "date": "2018-12-18",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/1812/BaikalBubbles_Makeeva_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/1812/BaikalBubbles_Makeeva_1000.jpg",
-      "explanation": "What are these bubbles frozen into Lake Baikal? Methane.  Lake Baikal, a UNESCO World Heritage Site in Russia, is the world's largest (by volume), oldest, and deepest lake, containing over 20% of the world's fresh water. The lake is also a vast storehouse of methane, a greenhouse gas that, if released, could potentially increase the amount of infrared light absorbed by Earth's atmosphere, and so increase the average temperature of the entire planet. Fortunately, the amount of methane currently bubbling out is not climatologically important. It is not clear what would happen, though, were temperatures to significantly increase in the region, or if the water level in Lake Baikal were to drop.  Pictured, bubbles of rising methane froze during winter into the exceptionally clear ice covering the lake.",
-      "copyright": "Kristina Makeeva"
-    },
-    {
-      "title": "Halloween and the Ghost Head Nebula",
-      "date": "2001-10-31",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0110/ngc2080_hst.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0110/ngc2080_hst_big.jpg",
-      "explanation": "Halloween's origin is ancient and astronomical.  Since the fifth century BC, Halloween has been celebrated as a cross-quarter day, a day halfway between an equinox (equal day / equal night) and a solstice (minimum day / maximum night in the northern hemisphere).  With our modern calendar, however, the real cross-quarter day will occur next week.  Another cross-quarter day is Groundhog's Day. Halloween's modern celebration retains historic roots in dressing to scare away the spirits of the dead.  A perhaps-fitting modern tribute to this ancient holiday is the above-pictured Ghost Head Nebula taken with the Hubble Space Telescope.  Appearing similar to the icon of a fictional ghost, NGC 2080 is actually a star forming region in the Large Magellanic Cloud, a satellite galaxy of our own Milky Way Galaxy.  The Ghost Head Nebula spans about 50 light-years and is shown in representative colors.",
+      "url": "https://apod.nasa.gov/apod/image/2101/AsteroidStreak_hst_960.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2101/AsteroidStreak_hst_960.jpg",
+      "explanation": "Rocks from space hit Earth every day.  The larger the rock, though, the less often Earth is struck.  Many kilograms of space dust pitter to Earth daily. Larger bits appear initially as a bright meteor.  Baseball-sized rocks and ice-balls streak through our atmosphere daily, most evaporating quickly to nothing.  Significant threats do exist for rocks near 100 meters in diameter, which strike the Earth roughly every 1000 years.  An object this size could cause significant tsunamis were it to strike an ocean, potentially devastating even distant shores. A collision with a massive asteroid, over 1 km across, is more rare, occurring typically millions of years apart, but could have truly global consequences. Many asteroids remain undiscovered.  In the featured image, one such asteroid -- shown by the long blue streak -- was found by chance in 1998 by the Hubble Space Telescope. A collision with a large asteroid  would not affect Earth's orbit so much as raise dust that would affect Earth's climate.  One likely result is a global extinction of many species of life, possibly dwarfing the ongoing extinction occurring now.",
       "copyright": ""
     },
     {
-      "title": "Three Dusty Stars",
-      "date": "1998-04-23",
+      "title": "NGC 7293: The Helix Nebula",
+      "date": "2003-05-10",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/9804/starsdisks3_jcm.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/9804/starsdisks3_jcm_big.jpg",
-      "explanation": "These separate radio images reveal three dusty debris disks surrounding three bright, young, nearby stars - evidence for solar systems in formation. From left to right are the stars Fomalhaut, Beta Pictoris, and Vega, their positions indicated by star symbols. The false color maps show the intensity of submillimeter radio emission from the surrounding dust. Next to each dust \"disk\", a vertical bar illustrates the present size of our own solar system. These observations are likely examples of what our solar system would have looked like to distant radio astronomers when it was only a few hundred million years old! Astronomers speculate that bright blobs of emission near Vega and Beta Pictoris may represent dust clouds around developing giant planets. The radio images were made using detectors cooled to near absolute zero and the James Clerk Maxwell Telescope at Mauna Kea Observatory in Hawaii.",
+      "url": "https://apod.nasa.gov/apod/image/0305/helix03_hst.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0305/helix03_hst_big.jpg",
+      "explanation": "Will our Sun look like this one day?  The Helix Nebula is the closest example of a planetary nebula created at the end of the life of a Sun-like star.  The outer gasses of the star expelled into space appear from our vantage point as if we are looking down a helix.  The remnant central stellar core, destined to become a white dwarf star, glows in light so energetic it causes the previously expelled gas to fluoresce.  The Helix Nebula, given a technical designation of NGC 7293, lies about 650 light-years away towards the constellation of Aquarius and spans about 2.5 light-years.  The above picture is a composite of newly released images from the ACS instrument on the Hubble Space Telescope and wide-angle images from the Mosaic Camera on the WIYN 0.9-m Telescope at Kitt Peak National Observatory.  A close-up of the inner edge of the Helix Nebula shows complex gas knots of unknown origin.   News: Today is Astronomy Day!",
       "copyright": ""
+    },
+    {
+      "title": "Grand Spiral Galaxy NGC 1232",
+      "date": "2012-01-07",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/1201/ngc1232b_vlt_900.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/1201/ngc1232b_vlt_3969.jpg",
+      "explanation": "Galaxies are fascinating not only for what is visible, but for what is invisible. Grand spiral galaxy NGC 1232, captured in detail by one of the new Very Large Telescopes, is a good example.  The visible is dominated by millions of bright stars and dark dust, caught up in a gravitational swirl of spiral arms revolving about the center. Open clusters containing bright blue stars can be seen sprinkled along these spiral arms, while dark lanes of dense interstellar dust can be seen sprinkled between them. Less visible, but detectable, are billions of dim normal stars and vast tracts of interstellar gas, together wielding such high mass that they dominate the dynamics of the inner galaxy.  Invisible are even greater amounts of matter in a form we don't yet know - pervasive dark matter needed to explain the motions of the visible in the outer galaxy.    Discovery + Outreach: Graduate student research position open for APOD",
+      "copyright": ""
+    },
+    {
+      "title": "The Tails of Comet Hyakutake",
+      "date": "1996-05-02",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/hyakutake_18Apr_vw.gif",
+      "hdurl": "https://apod.nasa.gov/apod/image/hyakutake_18Apr_vw.gif",
+      "explanation": "What makes comet tails so colorful?  This photograph of Comet Hyakutake was taken the night of April 18th and highlights different components of the tail. The gold and red tail features are dust, made predominately of little bits of rock and carbon. The dust tail shines by reflecting sunlight. Extending past the dust tail is the comet's ion tail, shown here glowing in blue. The ion tail is composed mostly of ions of water, carbon monoxide, and cyanogen. The ion tail glows by emitting light when elections re-combine with electrically charged ions to make uncharged molecules. The photograph was taken just north of Kansas City, Missouri, USA.   Latest Comet Hyakutake images: APOD Hyakutake Archive, JPL, Fayetteville Observer-Times, NASA's Night of the Comet, ICSTARS, Jerry Lodriguss, ScienceWeb, Crni Vrh Obs.,",
+      "copyright": "Vic \nWinter, Courtesy\nICSTARS"
     }
   ]
 }
