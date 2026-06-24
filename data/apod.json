@@ -1,51 +1,51 @@
 {
   "source": "nasa-apod",
-  "updated": "2026-06-23T07:00:06.609Z",
+  "updated": "2026-06-24T06:57:29.665Z",
   "items": [
     {
-      "title": "Running Messier's Marathon",
-      "date": "2008-04-19",
+      "title": "Julius Caesar and Leap Days",
+      "date": "2024-02-29",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0804/Marathon8_abolfath800.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0804/Marathon8_abolfath.jpg",
-      "explanation": "Gripped by an astronomical spring fever, many northern hemisphere stargazers embark on a Messier Marathon. Completing the marathon requires viewing all 110 objects in 18th century French astronomer Charles Messier's catalog in one glorious dusk-to-dawn observing run. As daunting as it sounds, there are often favorable weekend dates for completing the task that fall on nearly moonless nights near the March equinox. This colorful, six hour long time exposure of a group dedicated to running this year's Messier marathon includes celestial star trails along with terrestrial lighting trails from about 200 amateur astronomers. It was recorded from the isolated, ancient Bahram Palace in northern Iran's Kavir National Park. Astronomer and former Messier Marathon organizer for the ASIAC Babak Tafreshi offers this intriguing time-lapse movie (2MB wmv file) of the event.",
-      "copyright": "Amir\nHossein Abolfath"
-    },
-    {
-      "title": "Asteroids in the Distance",
-      "date": "2021-01-31",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/2101/AsteroidStreak_hst_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2101/AsteroidStreak_hst_960.jpg",
-      "explanation": "Rocks from space hit Earth every day.  The larger the rock, though, the less often Earth is struck.  Many kilograms of space dust pitter to Earth daily. Larger bits appear initially as a bright meteor.  Baseball-sized rocks and ice-balls streak through our atmosphere daily, most evaporating quickly to nothing.  Significant threats do exist for rocks near 100 meters in diameter, which strike the Earth roughly every 1000 years.  An object this size could cause significant tsunamis were it to strike an ocean, potentially devastating even distant shores. A collision with a massive asteroid, over 1 km across, is more rare, occurring typically millions of years apart, but could have truly global consequences. Many asteroids remain undiscovered.  In the featured image, one such asteroid -- shown by the long blue streak -- was found by chance in 1998 by the Hubble Space Telescope. A collision with a large asteroid  would not affect Earth's orbit so much as raise dust that would affect Earth's climate.  One likely result is a global extinction of many species of life, possibly dwarfing the ongoing extinction occurring now.",
+      "url": "https://apod.nasa.gov/apod/image/2402/CaesarCoin_Wikipedia_960.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2402/CaesarCoin_Wikipedia_960.jpg",
+      "explanation": "In 46 BC Julius Caesar reformed the calendar system. Based on advice by astronomer Sosigenes of Alexandria, the Julian calendar included one leap day every four years to account for the fact that an Earth year is slightly more than 365 days long. In modern terms, the time it takes for the planet to orbit the Sun once is 365.24219 mean solar days. So if calendar years contained exactly 365 days they would drift from the Earth's year by about 1 day every 4 years and eventually July (named for Julius Caesar himself) would occur during the northern hemisphere winter. By adopting a leap year with an extra day every four years, the Julian calendar year would drift much less. In 1582 Pope Gregory XIII provided the further fine-tuning that leap days should not occur in years ending in 00, unless divisible by 400. This Gregorian Calendar system is the one in wide use today. Of course, tidal friction in the Earth-Moon system slows Earth's rotation and gradually lengthens the day by about 1.4 milliseconds per century. That means that leap days like today will not be necessary, about 4 million years from now. This Roman silver coin, a denarius, depicts Julius Caesar (left) and Venus, Roman goddess of love.",
       "copyright": ""
     },
     {
-      "title": "NGC 7293: The Helix Nebula",
-      "date": "2003-05-10",
+      "title": "Sun Storm: A Coronal Mass Ejection",
+      "date": "2016-01-10",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0305/helix03_hst.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0305/helix03_hst_big.jpg",
-      "explanation": "Will our Sun look like this one day?  The Helix Nebula is the closest example of a planetary nebula created at the end of the life of a Sun-like star.  The outer gasses of the star expelled into space appear from our vantage point as if we are looking down a helix.  The remnant central stellar core, destined to become a white dwarf star, glows in light so energetic it causes the previously expelled gas to fluoresce.  The Helix Nebula, given a technical designation of NGC 7293, lies about 650 light-years away towards the constellation of Aquarius and spans about 2.5 light-years.  The above picture is a composite of newly released images from the ACS instrument on the Hubble Space Telescope and wide-angle images from the Mosaic Camera on the WIYN 0.9-m Telescope at Kitt Peak National Observatory.  A close-up of the inner edge of the Helix Nebula shows complex gas knots of unknown origin.   News: Today is Astronomy Day!",
+      "url": "https://apod.nasa.gov/apod/image/1601/CMEsun_soho_960.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/1601/CMEsun_soho_1875.jpg",
+      "explanation": "What's happening to our Sun?  Another Coronal Mass Ejection (CME)!  The Sun-orbiting SOHO spacecraft has imaged many erupting filaments lifting off the active solar surface and blasting enormous bubbles of magnetic plasma into space. Direct light from the sun is blocked in the inner part of the featured image, taken in 2002, and replaced by a simultaneous image of the Sun in ultraviolet light.  The field of view extends over two million kilometers from the solar surface. While hints of these explosive events, called coronal mass ejections or CMEs, were discovered by spacecraft in the early 70s, this dramatic image is part of a detailed record of this CME's development from the presently operating SOHO spacecraft.  Near the maximum of the solar activity cycle, CMEs now typically occur several times a week.  Strong CMEs may profoundly influence space weather. Those directed toward our planet can have serious effects.   Astrophysicists: Browse 1,100+ codes in the Astrophysics Source Code Library",
       "copyright": ""
     },
     {
-      "title": "Grand Spiral Galaxy NGC 1232",
-      "date": "2012-01-07",
+      "title": "The Heart and Soul Nebulas",
+      "date": "2008-09-14",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/1201/ngc1232b_vlt_900.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/1201/ngc1232b_vlt_3969.jpg",
-      "explanation": "Galaxies are fascinating not only for what is visible, but for what is invisible. Grand spiral galaxy NGC 1232, captured in detail by one of the new Very Large Telescopes, is a good example.  The visible is dominated by millions of bright stars and dark dust, caught up in a gravitational swirl of spiral arms revolving about the center. Open clusters containing bright blue stars can be seen sprinkled along these spiral arms, while dark lanes of dense interstellar dust can be seen sprinkled between them. Less visible, but detectable, are billions of dim normal stars and vast tracts of interstellar gas, together wielding such high mass that they dominate the dynamics of the inner galaxy.  Invisible are even greater amounts of matter in a form we don't yet know - pervasive dark matter needed to explain the motions of the visible in the outer galaxy.    Discovery + Outreach: Graduate student research position open for APOD",
+      "url": "https://apod.nasa.gov/apod/image/0809/ic1805_skyfactory.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0809/ic1805_skyfactory_big.jpg",
+      "explanation": "Is the heart and soul of our Galaxy located in Cassiopeia?  Possibly not, but that is where two bright emission nebulas nicknamed Heart and Soul can be found.  The Heart Nebula, officially dubbed IC 1805 and visible in the above zoomable view on the right, has a shape reminiscent of a classical heart symbol.  Both nebulas shine brightly in the red light of energized hydrogen.  Several young open clusters of stars populate the image and are visible above in blue, including the nebula centers.  Light takes about 6,000 years to reach us from these nebulas, which together span roughly 300 light years.  Studies of stars and clusters like those found in the  Heart and Soul Nebulas have focussed on how massive stars form and how they affect their environment.   Note: Free Astronomy Course Taught Online by an APOD Editor",
       "copyright": ""
     },
     {
-      "title": "The Tails of Comet Hyakutake",
-      "date": "1996-05-02",
+      "title": "Total Solar Eclipse over Svalbard",
+      "date": "2015-04-20",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/hyakutake_18Apr_vw.gif",
-      "hdurl": "https://apod.nasa.gov/apod/image/hyakutake_18Apr_vw.gif",
-      "explanation": "What makes comet tails so colorful?  This photograph of Comet Hyakutake was taken the night of April 18th and highlights different components of the tail. The gold and red tail features are dust, made predominately of little bits of rock and carbon. The dust tail shines by reflecting sunlight. Extending past the dust tail is the comet's ion tail, shown here glowing in blue. The ion tail is composed mostly of ions of water, carbon monoxide, and cyanogen. The ion tail glows by emitting light when elections re-combine with electrically charged ions to make uncharged molecules. The photograph was taken just north of Kansas City, Missouri, USA.   Latest Comet Hyakutake images: APOD Hyakutake Archive, JPL, Fayetteville Observer-Times, NASA's Night of the Comet, ICSTARS, Jerry Lodriguss, ScienceWeb, Crni Vrh Obs.,",
-      "copyright": "Vic \nWinter, Courtesy\nICSTARS"
+      "url": "https://apod.nasa.gov/apod/image/1504/EclipseSvalbard_Santikunaporn_960.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/1504/EclipseSvalbard_Santikunaporn_2048.jpg",
+      "explanation": "Going, going, gone.  That was the feeling in Svalbard, Norway last month during a total eclipse of the Sun by the Moon.  In the featured image, the eclipse was captured every three minutes and then digitally merged with a foreground frame taken from the same location. Visible in the foreground are numerous gawking eclipse seekers, some deploying pretty sophisticated cameras.  As the Moon and Sun moved together across the sky -- nearly horizontally from this far north -- an increasing fraction of the Sun appears covered by the Moon. In the central frame, the Moon's complete blockage of the disk of the Sun makes the immediate surroundings appear like night during the day. The exception is the Moon itself, which now appears surrounded by the expansive corona of the Sun.  Of course, about 2.5 minutes later, the surface of the Sun began to reappear.  The next total eclipse of the Sun will occur in 2016 March and be visible from Southeast Asia.   Follow APOD on: Facebook,  Google Plus, or Twitter",
+      "copyright": "Thanakrit Santikunaporn"
+    },
+    {
+      "title": "Geminids of the South",
+      "date": "2015-12-17",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/1512/geminids2015_beletsky.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/1512/geminids2015_beletsky.jpg",
+      "explanation": "rth's annual Geminid meteor shower did not disappoint, peaking before dawn on December 14 as our fair planet plowed through dust from active asteroid 3200 Phaethon. Captured in this southern hemisphere nightscape the meteors stream away from the shower's radiant in Gemini. To create the image, many individual frames recording meteor streaks were taken over period of 5 hours. In the final composite they were selected and registered against the starry sky above the twin 6.5 meter Magellan telescopes of Carnegie Las Campanas Observatory in Chile. Rigel in Orion, and Sirius shine brightly as the Milky Way stretches toward the zenith. Near Castor and Pollux the twin stars of Gemini, the meteor shower's radiant is low, close to the horizon. The radiant effect is due to perspective as the parallel meteor tracks appear to converge in the distance.  Gemini's meteors enter Earth's atmosphere traveling at about 22 kilometers per second.",
+      "copyright": "Yuri Beletsky"
     }
   ]
 }
