@@ -1,51 +1,51 @@
 {
   "source": "nasa-apod",
-  "updated": "2026-06-24T06:57:29.665Z",
+  "updated": "2026-06-25T06:57:29.552Z",
   "items": [
     {
-      "title": "Julius Caesar and Leap Days",
-      "date": "2024-02-29",
+      "title": "Globular Cluster M15 from Hubble",
+      "date": "2013-11-19",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/2402/CaesarCoin_Wikipedia_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2402/CaesarCoin_Wikipedia_960.jpg",
-      "explanation": "In 46 BC Julius Caesar reformed the calendar system. Based on advice by astronomer Sosigenes of Alexandria, the Julian calendar included one leap day every four years to account for the fact that an Earth year is slightly more than 365 days long. In modern terms, the time it takes for the planet to orbit the Sun once is 365.24219 mean solar days. So if calendar years contained exactly 365 days they would drift from the Earth's year by about 1 day every 4 years and eventually July (named for Julius Caesar himself) would occur during the northern hemisphere winter. By adopting a leap year with an extra day every four years, the Julian calendar year would drift much less. In 1582 Pope Gregory XIII provided the further fine-tuning that leap days should not occur in years ending in 00, unless divisible by 400. This Gregorian Calendar system is the one in wide use today. Of course, tidal friction in the Earth-Moon system slows Earth's rotation and gradually lengthens the day by about 1.4 milliseconds per century. That means that leap days like today will not be necessary, about 4 million years from now. This Roman silver coin, a denarius, depicts Julius Caesar (left) and Venus, Roman goddess of love.",
+      "url": "https://apod.nasa.gov/apod/image/1311/m15_hubble_960.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/1311/m15_hubble_3749.jpg",
+      "explanation": "Stars, like bees, swarm around the center of bright globular cluster M15.  This ball of over 100,000 stars is a relic from the early years of our Galaxy, and continues to orbit the Milky Way's center.  M15, one of about 170 globular clusters remaining, is noted for being easily visible with only binoculars, having at its center one of the densest concentrations of stars known, and containing a high abundance of variable stars and pulsars.  Released only recently, this sharp image taken by the Earth-orbiting Hubble Space Telescope spans about 120 light years. It shows the dramatic increase in density of stars toward the cluster's center.  M15 lies about 35,000 light years away toward the constellation of the Winged Horse (Pegasus).    Gallery: Comets 2013",
       "copyright": ""
     },
     {
-      "title": "Sun Storm: A Coronal Mass Ejection",
-      "date": "2016-01-10",
+      "title": "Retrograde Mars and Saturn",
+      "date": "2016-09-15",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/1601/CMEsun_soho_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/1601/CMEsun_soho_1875.jpg",
-      "explanation": "What's happening to our Sun?  Another Coronal Mass Ejection (CME)!  The Sun-orbiting SOHO spacecraft has imaged many erupting filaments lifting off the active solar surface and blasting enormous bubbles of magnetic plasma into space. Direct light from the sun is blocked in the inner part of the featured image, taken in 2002, and replaced by a simultaneous image of the Sun in ultraviolet light.  The field of view extends over two million kilometers from the solar surface. While hints of these explosive events, called coronal mass ejections or CMEs, were discovered by spacecraft in the early 70s, this dramatic image is part of a detailed record of this CME's development from the presently operating SOHO spacecraft.  Near the maximum of the solar activity cycle, CMEs now typically occur several times a week.  Strong CMEs may profoundly influence space weather. Those directed toward our planet can have serious effects.   Astrophysicists: Browse 1,100+ codes in the Astrophysics Source Code Library",
+      "url": "https://apod.nasa.gov/apod/image/1609/MaSa2016Tezel1024.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/1609/MaSa2016Tezel.jpg",
+      "explanation": "Wandering Mars and Saturn have spent much of this year remarkably close in planet Earth's night sky. In a sequence of exposures spanning mid-December 2015 through the beginning of this week, this composited skyview follows their time together, including both near opposition, just north of bright star Antares near the Milky Way's central bulge. In the corresponding video, Saturn's apparent movement is seen to be back and forth along the flattened, compact loop, while Mars traces the wider, reversing S-shaped track from upper right to lower left through the frame. To connect the dots and dates just slide your cursor over the picture (or follow this link). It looks that way, but Mars and Saturn don't actually reverse direction along their orbits. Instead, their apparent backwards or retrograde motion with respect to the background stars is a reflection of the orbital motion of the Earth itself. Retrograde motion can be seen each time Earth overtakes and laps planets orbiting farther from the Sun, the Earth moving more rapidly through its own relatively close-in orbit.",
+      "copyright": "Tunç Tezel"
+    },
+    {
+      "title": "Comets Bradfield and LINEAR Rising",
+      "date": "2004-05-03",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/0405/bradfieldt7_pacholka.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0405/bradfieldt7_pacholka_big.jpg",
+      "explanation": "Comet Bradfield is easy to see on the left, but can you find Comet LINEAR on the right?  Last week, just before sunrise from the northern hemisphere, two bright comets were visible in the same part of the sky at the same time.  The above long-exposure image was taken on the morning of April 25 from Joshua Tree National Park in California, USA.  Comet C/2004 F4 (Bradfield) is giving an unexpectedly good show as it recedes from the Sun and Earth and fades from view.  Its tail is estimated by some to be about 10 degrees long.  Having just rounded the Sun itself, Comet C/2002 T7 (LINEAR) is now moving toward the Earth.   Although intrinsically fading, T7 will appear to brighten until about mid-May and so continue to be visible to the unaided eye before sunrise to southern hemisphere observers into June.  Q4, the third coincidental naked eye comet, will become visible in mid-May to northern hemisphere observers.",
+      "copyright": "Wally Pacholka (Astropics)"
+    },
+    {
+      "title": "Outbound from Mercury",
+      "date": "2002-07-16",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/0207/mercuryoutbound_mariner10.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0207/mercuryoutbound_mariner10_big.jpg",
+      "explanation": "After just passing Mercury, the robot spacecraft Mariner 10 looked back.  The above picture is what it saw.  Mercury, the closest planet to the Sun, is heavily cratered much like Earth's Moon.  As Mercury slowly rotates, its surface temperature varies from an unbearably cold -180 degrees Celsius in the half facing away from the Sun, to an unbearably hot 400 degrees Celsius in the half facing toward the Sun.  Mercury is slightly larger than Earth's Moon and much denser.   The Mariner 10 spacecraft swooped by Mercury three times in its journey around the inner Solar System in the mid-1970s.  This outbound view has similarities to the inbound view.  Nearly half of Mercury's surface has yet to be photographed in detail.",
       "copyright": ""
     },
     {
-      "title": "The Heart and Soul Nebulas",
-      "date": "2008-09-14",
+      "title": "Hen 1357: New Born Nebula",
+      "date": "2001-10-06",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0809/ic1805_skyfactory.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0809/ic1805_skyfactory_big.jpg",
-      "explanation": "Is the heart and soul of our Galaxy located in Cassiopeia?  Possibly not, but that is where two bright emission nebulas nicknamed Heart and Soul can be found.  The Heart Nebula, officially dubbed IC 1805 and visible in the above zoomable view on the right, has a shape reminiscent of a classical heart symbol.  Both nebulas shine brightly in the red light of energized hydrogen.  Several young open clusters of stars populate the image and are visible above in blue, including the nebula centers.  Light takes about 6,000 years to reach us from these nebulas, which together span roughly 300 light years.  Studies of stars and clusters like those found in the  Heart and Soul Nebulas have focussed on how massive stars form and how they affect their environment.   Note: Free Astronomy Course Taught Online by an APOD Editor",
+      "url": "https://apod.nasa.gov/apod/image/0110/stingray_hst.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0110/stingray_hst_big.jpg",
+      "explanation": "This Hubble Space Telescope snapshot shows Hen-1357, the youngest known planetary nebula. Graceful, gentle curves and symmetry suggest its popular name - The Stingray Nebula. Observations in the 1970s detected no nebular material, but this image from March 1996 clearly shows the Stingray's emerging bubbles and rings of shocked and ionized gas. The gas is energized by the hot central star as it nears the end of its life, evolving toward a final white dwarf phase. The image also shows a companion star (at about 10 o'clock) within the nebula. Astronomers suspect that such companions account for the complex shapes and rings of this and many other planetary nebulae. This cosmic infant is about 130 times the size of our own solar system and growing. It is 18,000 light-years distant, in the southern constellation Ara.",
       "copyright": ""
-    },
-    {
-      "title": "Total Solar Eclipse over Svalbard",
-      "date": "2015-04-20",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/1504/EclipseSvalbard_Santikunaporn_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/1504/EclipseSvalbard_Santikunaporn_2048.jpg",
-      "explanation": "Going, going, gone.  That was the feeling in Svalbard, Norway last month during a total eclipse of the Sun by the Moon.  In the featured image, the eclipse was captured every three minutes and then digitally merged with a foreground frame taken from the same location. Visible in the foreground are numerous gawking eclipse seekers, some deploying pretty sophisticated cameras.  As the Moon and Sun moved together across the sky -- nearly horizontally from this far north -- an increasing fraction of the Sun appears covered by the Moon. In the central frame, the Moon's complete blockage of the disk of the Sun makes the immediate surroundings appear like night during the day. The exception is the Moon itself, which now appears surrounded by the expansive corona of the Sun.  Of course, about 2.5 minutes later, the surface of the Sun began to reappear.  The next total eclipse of the Sun will occur in 2016 March and be visible from Southeast Asia.   Follow APOD on: Facebook,  Google Plus, or Twitter",
-      "copyright": "Thanakrit Santikunaporn"
-    },
-    {
-      "title": "Geminids of the South",
-      "date": "2015-12-17",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/1512/geminids2015_beletsky.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/1512/geminids2015_beletsky.jpg",
-      "explanation": "rth's annual Geminid meteor shower did not disappoint, peaking before dawn on December 14 as our fair planet plowed through dust from active asteroid 3200 Phaethon. Captured in this southern hemisphere nightscape the meteors stream away from the shower's radiant in Gemini. To create the image, many individual frames recording meteor streaks were taken over period of 5 hours. In the final composite they were selected and registered against the starry sky above the twin 6.5 meter Magellan telescopes of Carnegie Las Campanas Observatory in Chile. Rigel in Orion, and Sirius shine brightly as the Milky Way stretches toward the zenith. Near Castor and Pollux the twin stars of Gemini, the meteor shower's radiant is low, close to the horizon. The radiant effect is due to perspective as the parallel meteor tracks appear to converge in the distance.  Gemini's meteors enter Earth's atmosphere traveling at about 22 kilometers per second.",
-      "copyright": "Yuri Beletsky"
     }
   ]
 }
