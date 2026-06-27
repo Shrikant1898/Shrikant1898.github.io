@@ -1,51 +1,51 @@
 {
   "source": "nasa-apod",
-  "updated": "2026-06-25T06:57:29.552Z",
+  "updated": "2026-06-27T06:37:37.199Z",
   "items": [
     {
-      "title": "Globular Cluster M15 from Hubble",
-      "date": "2013-11-19",
+      "title": "Sutter's Mill Meteorite",
+      "date": "2012-04-28",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/1311/m15_hubble_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/1311/m15_hubble_3749.jpg",
-      "explanation": "Stars, like bees, swarm around the center of bright globular cluster M15.  This ball of over 100,000 stars is a relic from the early years of our Galaxy, and continues to orbit the Milky Way's center.  M15, one of about 170 globular clusters remaining, is noted for being easily visible with only binoculars, having at its center one of the densest concentrations of stars known, and containing a high abundance of variable stars and pulsars.  Released only recently, this sharp image taken by the Earth-orbiting Hubble Space Telescope spans about 120 light years. It shows the dramatic increase in density of stars toward the cluster's center.  M15 lies about 35,000 light years away toward the constellation of the Winged Horse (Pegasus).    Gallery: Comets 2013",
+      "url": "https://apod.nasa.gov/apod/image/1204/ACD12-0067-001jenniskens900.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/1204/ACD12-0067-001jenniskens.jpg",
+      "explanation": "Last Sunday's bright fireball meteor falling through skies over California and Nevada produced sonic booms over a broad area around 7:51 am. Estimates indicate the meteor was about the size of a minivan. Astronomer Peter Jenniskens subsequently recovered these fragments of a crushed 4 gram meteorite, the second find from this meteor fall, in the parking lot of the Henningsen-Lotus state park, not far from Sutter's Mill. This is now known as the Sutter's Mill Meteorite, the location famous for its association with the California Gold Rush. The meteorite may well be astronomer's gold too, thought to be a rare CM type carbonaceous chondrite, a type rich in organic compounds and similar to the Murchison Meteorite. To trace the meteor's orbit, details of its breakup, and aid in locating more fragements, scientists are also searching for video records. Security cameras across a wide area could have accidently captured the fireball event near 7:51 am PDT on April 22; e.g. California (SF Bay Area, Los Angeles, near Redding) and Nevada (Reno area, Tonopah), even in southern parts of Oregon and near Salt Lake City in Utah. If you have video footage of the event, please use the contact information here.",
       "copyright": ""
     },
     {
-      "title": "Retrograde Mars and Saturn",
-      "date": "2016-09-15",
+      "title": "The Galactic Center Radio Arc",
+      "date": "2023-04-03",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/1609/MaSa2016Tezel1024.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/1609/MaSa2016Tezel.jpg",
-      "explanation": "Wandering Mars and Saturn have spent much of this year remarkably close in planet Earth's night sky. In a sequence of exposures spanning mid-December 2015 through the beginning of this week, this composited skyview follows their time together, including both near opposition, just north of bright star Antares near the Milky Way's central bulge. In the corresponding video, Saturn's apparent movement is seen to be back and forth along the flattened, compact loop, while Mars traces the wider, reversing S-shaped track from upper right to lower left through the frame. To connect the dots and dates just slide your cursor over the picture (or follow this link). It looks that way, but Mars and Saturn don't actually reverse direction along their orbits. Instead, their apparent backwards or retrograde motion with respect to the background stars is a reflection of the orbital motion of the Earth itself. Retrograde motion can be seen each time Earth overtakes and laps planets orbiting farther from the Sun, the Earth moving more rapidly through its own relatively close-in orbit.",
-      "copyright": "Tunç Tezel"
-    },
-    {
-      "title": "Comets Bradfield and LINEAR Rising",
-      "date": "2004-05-03",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0405/bradfieldt7_pacholka.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0405/bradfieldt7_pacholka_big.jpg",
-      "explanation": "Comet Bradfield is easy to see on the left, but can you find Comet LINEAR on the right?  Last week, just before sunrise from the northern hemisphere, two bright comets were visible in the same part of the sky at the same time.  The above long-exposure image was taken on the morning of April 25 from Joshua Tree National Park in California, USA.  Comet C/2004 F4 (Bradfield) is giving an unexpectedly good show as it recedes from the Sun and Earth and fades from view.  Its tail is estimated by some to be about 10 degrees long.  Having just rounded the Sun itself, Comet C/2002 T7 (LINEAR) is now moving toward the Earth.   Although intrinsically fading, T7 will appear to brighten until about mid-May and so continue to be visible to the unaided eye before sunrise to southern hemisphere observers into June.  Q4, the third coincidental naked eye comet, will become visible in mid-May to northern hemisphere observers.",
-      "copyright": "Wally Pacholka (Astropics)"
-    },
-    {
-      "title": "Outbound from Mercury",
-      "date": "2002-07-16",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0207/mercuryoutbound_mariner10.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0207/mercuryoutbound_mariner10_big.jpg",
-      "explanation": "After just passing Mercury, the robot spacecraft Mariner 10 looked back.  The above picture is what it saw.  Mercury, the closest planet to the Sun, is heavily cratered much like Earth's Moon.  As Mercury slowly rotates, its surface temperature varies from an unbearably cold -180 degrees Celsius in the half facing away from the Sun, to an unbearably hot 400 degrees Celsius in the half facing toward the Sun.  Mercury is slightly larger than Earth's Moon and much denser.   The Mariner 10 spacecraft swooped by Mercury three times in its journey around the inner Solar System in the mid-1970s.  This outbound view has similarities to the inbound view.  Nearly half of Mercury's surface has yet to be photographed in detail.",
+      "url": "https://apod.nasa.gov/apod/image/2304/GalCenRadioArc_MeerKat_1080.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2304/GalCenRadioArc_MeerKat_1080.jpg",
+      "explanation": "What causes this unusual curving structure near the center of our Galaxy? The long parallel rays slanting across the top of the featured radio image are known collectively as the Galactic Center Radio Arc and point out from the Galactic plane.  The Radio Arc is connected to the Galactic Center by strange curving filaments known as the Arches.  The bright radio structure at the bottom right surrounds a black hole at the Galactic Center and is known as Sagittarius A*.  One origin hypothesis holds that the Radio Arc and the Arches have their geometry because they contain hot plasma flowing along lines of a constant magnetic field.  Images from NASA's Chandra X-ray Observatory appear to show this plasma colliding with a nearby cloud of cold gas.",
       "copyright": ""
     },
     {
-      "title": "Hen 1357: New Born Nebula",
-      "date": "2001-10-06",
+      "title": "Orion's Horsehead Nebula \nCredit:",
+      "date": "1996-10-02",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0110/stingray_hst.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0110/stingray_hst_big.jpg",
-      "explanation": "This Hubble Space Telescope snapshot shows Hen-1357, the youngest known planetary nebula. Graceful, gentle curves and symmetry suggest its popular name - The Stingray Nebula. Observations in the 1970s detected no nebular material, but this image from March 1996 clearly shows the Stingray's emerging bubbles and rings of shocked and ionized gas. The gas is energized by the hot central star as it nears the end of its life, evolving toward a final white dwarf phase. The image also shows a companion star (at about 10 o'clock) within the nebula. Astronomers suspect that such companions account for the complex shapes and rings of this and many other planetary nebulae. This cosmic infant is about 130 times the size of our own solar system and growing. It is 18,000 light-years distant, in the southern constellation Ara.",
-      "copyright": ""
+      "url": "https://apod.nasa.gov/apod/image/horsehead2_dm.gif",
+      "hdurl": "https://apod.nasa.gov/apod/image/horsehead2_dm_big.jpg",
+      "explanation": "The Horsehead Nebula is arguably the most famous nebula on the sky.  It is visible as the black indentation to the red emission nebula seen just to the right of center of the above photograph. The bright star near the center is located in the belt of the familiar constellation of Orion. The horse-head feature is dark because it is really an opaque dust cloud which lies in front of the bright red emission nebula. Like clouds in Earth's atmosphere, this cosmic cloud has assumed a recognizable shape by chance. After many thousands of years, the internal motions of the cloud will alter its appearance. The emission nebula's red color is caused by electrons recombining with protons to form hydrogen atoms. Also visible in the picture are blue reflection nebulae, which preferentially reflect the blue light from nearby stars.",
+      "copyright": "Anglo-Australian Telescope Board"
+    },
+    {
+      "title": "SH2-308: The Dolphin-head Nebula",
+      "date": "2021-10-21",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/2110/SH2-308NS_1024.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2110/SH2-308NS.jpg",
+      "explanation": "Blown by fast winds from a hot, massive star, this cosmic bubble is huge. Cataloged as Sharpless 2-308 it lies some 5,000 light-years away toward the constellation of the Big Dog (Canis Major) and covers slightly more of the sky than a Full Moon. That corresponds to a diameter of 60 light-years at its estimated distance. The massive star that created the bubble, a Wolf-Rayet star, is the bright one near the center of the nebula. Wolf-Rayet stars have over 20 times the mass of the Sun and are thought to be in a brief, pre-supernova phase of massive star evolution. Fast winds from this Wolf-Rayet star create the bubble-shaped nebula as they sweep up slower moving material from an earlier phase of evolution. The windblown nebula has an age of about 70,000 years. Relatively faint emission captured by narrowband filters in the deep image is dominated by the glow of ionized oxygen atoms mapped to a blue hue. Presenting a mostly harmless outline, SH2-308 is also known as The Dolphin-head Nebula.",
+      "copyright": "Nik Szymanek"
+    },
+    {
+      "title": "Carl Sagan 1934-1996",
+      "date": "1996-12-26",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/9612/sagan_uc.gif",
+      "hdurl": "https://apod.nasa.gov/apod/image/9612/sagan_uc_big.jpg",
+      "explanation": "Carl Sagan died last Friday at the age of\r 62. Sagan\r was the world's most famous astronomer.  Among his many activities\r as a scientist, he contributed to the discovery that the atmosphere\r of Venus is prohibitively hot and\r dense, and found evidence that Saturn's\r moon Titan contains oceans stocked with the building blocks of life.\r Sagan\r was an outspoken proponent of the search for extra-terrestrial life,\r including sending probes to other planets and\r listening with large radio telescopes\r for signals from intelligent aliens. Sagan's\r outstanding ability to explain allowed almost a billion people\r to better understand the cosmos in which they live.",
+      "copyright": "1994 by Michael Okoniewski"
     }
   ]
 }
