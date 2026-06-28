@@ -1,51 +1,51 @@
 {
   "source": "nasa-apod",
-  "updated": "2026-06-27T06:37:37.199Z",
+  "updated": "2026-06-28T07:10:55.194Z",
   "items": [
     {
-      "title": "Sutter's Mill Meteorite",
-      "date": "2012-04-28",
+      "title": "A Galaxy Beyond Stars, Gas, Dust",
+      "date": "2022-10-19",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/1204/ACD12-0067-001jenniskens900.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/1204/ACD12-0067-001jenniskens.jpg",
-      "explanation": "Last Sunday's bright fireball meteor falling through skies over California and Nevada produced sonic booms over a broad area around 7:51 am. Estimates indicate the meteor was about the size of a minivan. Astronomer Peter Jenniskens subsequently recovered these fragments of a crushed 4 gram meteorite, the second find from this meteor fall, in the parking lot of the Henningsen-Lotus state park, not far from Sutter's Mill. This is now known as the Sutter's Mill Meteorite, the location famous for its association with the California Gold Rush. The meteorite may well be astronomer's gold too, thought to be a rare CM type carbonaceous chondrite, a type rich in organic compounds and similar to the Murchison Meteorite. To trace the meteor's orbit, details of its breakup, and aid in locating more fragements, scientists are also searching for video records. Security cameras across a wide area could have accidently captured the fireball event near 7:51 am PDT on April 22; e.g. California (SF Bay Area, Los Angeles, near Redding) and Nevada (Reno area, Tonopah), even in southern parts of Oregon and near Salt Lake City in Utah. If you have video footage of the event, please use the contact information here.",
+      "url": "https://apod.nasa.gov/apod/image/2210/Ngc7497Cirrus_Trottier_960.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/2210/Ngc7497Cirrus_Trottier_2976.jpg",
+      "explanation": "Do we dare believe our eyes?  When we look at images of space, we often wonder whether they are \"real\", and just as often the best answer varies.  In this case, the scene appears much as our eyes would see it, because it was obtained using  RGB (Red, Green, Blue) filters like the cone cells in our eyes, except collecting light for 19 hours, not a fraction of a second.  The featured image was captured over six nights, using a 24-inch diameter telescope in the Sierra Nevada Mountains, in California, USA. The bright spiral galaxy at the center (NGC 7497) looks like it is being grasped by an eerie tendril of a space ghost, and therein lies the trick. The galaxy is actually 59 million light years away, while the nebulosity is MBM 54, less than one thousand light years away, making it one of the nearest cool clouds of gas and dust -- galactic cirrus -- within our own Milky Way Galaxy.  Both are in the constellation of Pegasus, which can be seen high overhead from northern latitudes in the autumn.",
+      "copyright": "Howard Trottier;\nText: Emily Rice"
+    },
+    {
+      "title": "Mars Opposition",
+      "date": "2018-07-27",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/1807/MarsOpp2panelSTSCI_1047.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/1807/MarsOpp2panelSTSCI_2094.jpg",
+      "explanation": "Look opposite the Sun in the sky tonight and you'll see Mars at its brightest. Also within days of its closest approach Mars rises at sunset, near its brightest and best for telescopic observers too, except for the dust storm still blanketing the Red Planet. These two Hubble Space Telescope images compare Mars' appearance near its 2016 and 2018 oppositions. In 2016 the martian atmosphere was clear. Captured just days ago, the 2018 image shows almost the same face of Mars. Surface features obscured by dust, the planet's cloud enshrouded south pole is tilted more toward the Sun. Increased heat in the southern hemisphere spring and summer likely triggers planet wide dust storms. Of course, if you look opposite the Sun in the sky tonight, you'll also see a Full Moon near Mars. Skygazers NOT located in North America could see the Red Planet near a Red Moon during a Total Lunar Eclipse.",
+      "copyright": "NASA"
+    },
+    {
+      "title": "A MACHO View of Galactic Dark Matter",
+      "date": "1996-02-02",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/ogle1.gif",
+      "hdurl": "https://apod.nasa.gov/apod/image/ogle1.gif",
+      "explanation": "What is our Galaxy made of?  Stellar motions indicate there is much more mass than just stars and gas. Photographs like the two shown above may be yielding a clue about the dark matter, however. Pictured is the first recorded instance of a dim star in our Galaxy moving in front of a bright background star, shown by the arrow, deflecting light around it, and causing the background star to appear much brighter (right frame). Were our Galaxy made predominantly of MAssive Compact Halo Objects (MACHOs), many similar such gravitational lensing events would be expected when photographing the Large Magellanic Clouds (LMC) - hence indicating the presence of MACHO lenses in our Galaxy. A research team led by Charles Alcock this month claimed enough LMC gravitational lensing events to indicate at least half of the dark matter in our Galaxy is composed of MACHOs. This spectacular claim may well be correct - but awaits crucial testing with future observations and modeling.",
       "copyright": ""
     },
     {
-      "title": "The Galactic Center Radio Arc",
-      "date": "2023-04-03",
+      "title": "The Voyagers' Message in a Bottle",
+      "date": "2007-09-08",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/2304/GalCenRadioArc_MeerKat_1080.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2304/GalCenRadioArc_MeerKat_1080.jpg",
-      "explanation": "What causes this unusual curving structure near the center of our Galaxy? The long parallel rays slanting across the top of the featured radio image are known collectively as the Galactic Center Radio Arc and point out from the Galactic plane.  The Radio Arc is connected to the Galactic Center by strange curving filaments known as the Arches.  The bright radio structure at the bottom right surrounds a black hole at the Galactic Center and is known as Sagittarius A*.  One origin hypothesis holds that the Radio Arc and the Arches have their geometry because they contain hot plasma flowing along lines of a constant magnetic field.  Images from NASA's Chandra X-ray Observatory appear to show this plasma colliding with a nearby cloud of cold gas.",
+      "url": "https://apod.nasa.gov/apod/image/0709/record_voyager.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0709/record_voyager_big.jpg",
+      "explanation": "Launched thirty years ago, NASA's Voyager 1 and 2 spacecraft are now respectively 15 and 12.5 billion kilometers from the Sun, equivalent to about 14 and 11.5 light-hours distant. Still functioning, the Voyagers are being tracked and commanded through the Deep Space Network. Having traveled beyond the outer planets, they are only the third and fourth spacecraft from planet Earth to escape toward interstellar space, following in the footsteps of Pioneer 10 and 11. A 12-inch gold plated copper disk (a phonograph record) containing recorded sounds and images representing human cultures and life on Earth, is affixed to each Voyager - a message in a bottle cast into the cosmic sea. The recorded material was selected by a committee chaired by astronomer Carl Sagan. Simple diagrams on the cover symbolically represent the spacecraft's origin and give instructions for playing the disk. The exotic construction of the disks should provide them with a long lifetime as they coast through interstellar space.",
       "copyright": ""
     },
     {
-      "title": "Orion's Horsehead Nebula \nCredit:",
-      "date": "1996-10-02",
+      "title": "Illusion and Evolution in Galaxy Cluster Abell 2667",
+      "date": "2007-03-05",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/horsehead2_dm.gif",
-      "hdurl": "https://apod.nasa.gov/apod/image/horsehead2_dm_big.jpg",
-      "explanation": "The Horsehead Nebula is arguably the most famous nebula on the sky.  It is visible as the black indentation to the red emission nebula seen just to the right of center of the above photograph. The bright star near the center is located in the belt of the familiar constellation of Orion. The horse-head feature is dark because it is really an opaque dust cloud which lies in front of the bright red emission nebula. Like clouds in Earth's atmosphere, this cosmic cloud has assumed a recognizable shape by chance. After many thousands of years, the internal motions of the cloud will alter its appearance. The emission nebula's red color is caused by electrons recombining with protons to form hydrogen atoms. Also visible in the picture are blue reflection nebulae, which preferentially reflect the blue light from nearby stars.",
-      "copyright": "Anglo-Australian Telescope Board"
-    },
-    {
-      "title": "SH2-308: The Dolphin-head Nebula",
-      "date": "2021-10-21",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/2110/SH2-308NS_1024.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2110/SH2-308NS.jpg",
-      "explanation": "Blown by fast winds from a hot, massive star, this cosmic bubble is huge. Cataloged as Sharpless 2-308 it lies some 5,000 light-years away toward the constellation of the Big Dog (Canis Major) and covers slightly more of the sky than a Full Moon. That corresponds to a diameter of 60 light-years at its estimated distance. The massive star that created the bubble, a Wolf-Rayet star, is the bright one near the center of the nebula. Wolf-Rayet stars have over 20 times the mass of the Sun and are thought to be in a brief, pre-supernova phase of massive star evolution. Fast winds from this Wolf-Rayet star create the bubble-shaped nebula as they sweep up slower moving material from an earlier phase of evolution. The windblown nebula has an age of about 70,000 years. Relatively faint emission captured by narrowband filters in the deep image is dominated by the glow of ionized oxygen atoms mapped to a blue hue. Presenting a mostly harmless outline, SH2-308 is also known as The Dolphin-head Nebula.",
-      "copyright": "Nik Szymanek"
-    },
-    {
-      "title": "Carl Sagan 1934-1996",
-      "date": "1996-12-26",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/9612/sagan_uc.gif",
-      "hdurl": "https://apod.nasa.gov/apod/image/9612/sagan_uc_big.jpg",
-      "explanation": "Carl Sagan died last Friday at the age of\r 62. Sagan\r was the world's most famous astronomer.  Among his many activities\r as a scientist, he contributed to the discovery that the atmosphere\r of Venus is prohibitively hot and\r dense, and found evidence that Saturn's\r moon Titan contains oceans stocked with the building blocks of life.\r Sagan\r was an outspoken proponent of the search for extra-terrestrial life,\r including sending probes to other planets and\r listening with large radio telescopes\r for signals from intelligent aliens. Sagan's\r outstanding ability to explain allowed almost a billion people\r to better understand the cosmos in which they live.",
-      "copyright": "1994 by Michael Okoniewski"
+      "url": "https://apod.nasa.gov/apod/image/0703/a2667_hst.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0703/a2667_hst_big.jpg",
+      "explanation": "What's happening to the galaxies of cluster Abell 2667?  On the upper left, a galaxy appears to be breaking up into small pieces, while on the far right, another galaxy appears to be stretched like taffy.  To start, most of the yellowish objects in the above image from the Hubble Space Telescope are galactic members of a massive cluster of galaxies known as Abell 2667.  The distortion of the galaxy on the upper left is real.  As the galaxy plows through the intercluster medium, gas is stripped out and condenses to form bright new knots of stars.  This detailed image of ram pressure stripping helps astronomers understand why so many galaxies today have so little gas. The distortion of the galaxy on the far right, however, is an illusion.  This nearly normal galaxy is actually far behind the massive galaxy cluster.  Light from this galaxy is gravitationally lensed by Abell 2667, appearing much like a distant person would appear through a wine glass. Each distorted galaxy gives important clues about how galaxies and clusters of galaxies evolve.",
+      "copyright": ""
     }
   ]
 }
