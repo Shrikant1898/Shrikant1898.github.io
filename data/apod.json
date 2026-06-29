@@ -1,51 +1,51 @@
 {
   "source": "nasa-apod",
-  "updated": "2026-06-28T07:10:55.194Z",
+  "updated": "2026-06-29T08:26:19.259Z",
   "items": [
     {
-      "title": "A Galaxy Beyond Stars, Gas, Dust",
-      "date": "2022-10-19",
+      "title": "Enceladus Backlit by Saturn",
+      "date": "2012-02-08",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/2210/Ngc7497Cirrus_Trottier_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2210/Ngc7497Cirrus_Trottier_2976.jpg",
-      "explanation": "Do we dare believe our eyes?  When we look at images of space, we often wonder whether they are \"real\", and just as often the best answer varies.  In this case, the scene appears much as our eyes would see it, because it was obtained using  RGB (Red, Green, Blue) filters like the cone cells in our eyes, except collecting light for 19 hours, not a fraction of a second.  The featured image was captured over six nights, using a 24-inch diameter telescope in the Sierra Nevada Mountains, in California, USA. The bright spiral galaxy at the center (NGC 7497) looks like it is being grasped by an eerie tendril of a space ghost, and therein lies the trick. The galaxy is actually 59 million light years away, while the nebulosity is MBM 54, less than one thousand light years away, making it one of the nearest cool clouds of gas and dust -- galactic cirrus -- within our own Milky Way Galaxy.  Both are in the constellation of Pegasus, which can be seen high overhead from northern latitudes in the autumn.",
-      "copyright": "Howard Trottier;\nText: Emily Rice"
-    },
-    {
-      "title": "Mars Opposition",
-      "date": "2018-07-27",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/1807/MarsOpp2panelSTSCI_1047.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/1807/MarsOpp2panelSTSCI_2094.jpg",
-      "explanation": "Look opposite the Sun in the sky tonight and you'll see Mars at its brightest. Also within days of its closest approach Mars rises at sunset, near its brightest and best for telescopic observers too, except for the dust storm still blanketing the Red Planet. These two Hubble Space Telescope images compare Mars' appearance near its 2016 and 2018 oppositions. In 2016 the martian atmosphere was clear. Captured just days ago, the 2018 image shows almost the same face of Mars. Surface features obscured by dust, the planet's cloud enshrouded south pole is tilted more toward the Sun. Increased heat in the southern hemisphere spring and summer likely triggers planet wide dust storms. Of course, if you look opposite the Sun in the sky tonight, you'll also see a Full Moon near Mars. Skygazers NOT located in North America could see the Red Planet near a Red Moon during a Total Lunar Eclipse.",
-      "copyright": "NASA"
-    },
-    {
-      "title": "A MACHO View of Galactic Dark Matter",
-      "date": "1996-02-02",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/ogle1.gif",
-      "hdurl": "https://apod.nasa.gov/apod/image/ogle1.gif",
-      "explanation": "What is our Galaxy made of?  Stellar motions indicate there is much more mass than just stars and gas. Photographs like the two shown above may be yielding a clue about the dark matter, however. Pictured is the first recorded instance of a dim star in our Galaxy moving in front of a bright background star, shown by the arrow, deflecting light around it, and causing the background star to appear much brighter (right frame). Were our Galaxy made predominantly of MAssive Compact Halo Objects (MACHOs), many similar such gravitational lensing events would be expected when photographing the Large Magellanic Clouds (LMC) - hence indicating the presence of MACHO lenses in our Galaxy. A research team led by Charles Alcock this month claimed enough LMC gravitational lensing events to indicate at least half of the dark matter in our Galaxy is composed of MACHOs. This spectacular claim may well be correct - but awaits crucial testing with future observations and modeling.",
+      "url": "https://apod.nasa.gov/apod/image/1202/enceladus12_cassini_960.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/1202/enceladus12_cassini_1023.png",
+      "explanation": "This moon is shining by the light of its planet. Specifically, a large portion of Enceladus pictured above is illuminated primarily by sunlight first reflected from the planet Saturn. The result is that the normally snow-white moon appears in the gold color of Saturn's cloud tops.  As most of the illumination comes from the image left, a labyrinth of ridges throws notable shadows just to the right of the image center, while the kilometer-deep canyon Labtayt Sulci is visible just below. The bright thin crescent on the far right is the only part of Enceladus directly lit by the Sun. The above image was taken last year by the robotic Cassini spacecraft during a close pass by by the enigmatic moon.  Inspection of the lower part of this digitally sharpened image reveals plumes of ice crystals thought to originate in a below-surface sea.   APOD in India: APOD editor to speak in Delhi on Feb. 12 (registration required)",
       "copyright": ""
     },
     {
-      "title": "The Voyagers' Message in a Bottle",
-      "date": "2007-09-08",
+      "title": "Occultations and Rising Moons",
+      "date": "1998-05-13",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0709/record_voyager.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0709/record_voyager_big.jpg",
-      "explanation": "Launched thirty years ago, NASA's Voyager 1 and 2 spacecraft are now respectively 15 and 12.5 billion kilometers from the Sun, equivalent to about 14 and 11.5 light-hours distant. Still functioning, the Voyagers are being tracked and commanded through the Deep Space Network. Having traveled beyond the outer planets, they are only the third and fourth spacecraft from planet Earth to escape toward interstellar space, following in the footsteps of Pioneer 10 and 11. A 12-inch gold plated copper disk (a phonograph record) containing recorded sounds and images representing human cultures and life on Earth, is affixed to each Voyager - a message in a bottle cast into the cosmic sea. The recorded material was selected by a committee chaired by astronomer Carl Sagan. Simple diagrams on the cover symbolically represent the spacecraft's origin and give instructions for playing the disk. The exotic construction of the disks should provide them with a long lifetime as they coast through interstellar space.",
+      "url": "https://apod.nasa.gov/apod/image/9805/vjgim_staiger.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/9805/vjgim_staiger_big.jpg",
+      "explanation": "On April 23, the rising crescent Moon occulted (passed in front of) Venus and Jupiter. The double occultation was a rare event and only visible from certain locations tracing a path across Earth's surface. This dramatic telephoto picture was taken at one such location, Ascension Island in the South Atlantic. The sunlit crescent is over-exposed revealing the rest of the lunar surface illuminated by faint earthshine. Venus is emerging just beyond the crescent's tip and Jupiter is trailing above the dark lunar edge with a spot of light, Jupiter's moon Ganymede, between the lunar limb and the planet's disk. Look closely at Jupiter and you can see yet another Jovian moon, Io, just visible against Jupiter's glare!",
+      "copyright": "Olivier Staiger"
+    },
+    {
+      "title": "A Strange Streak Imaged in Australia",
+      "date": "2004-12-07",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/0412/strange_pryde.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0412/strange_pryde_big.jpg",
+      "explanation": "Meteor experts don't think it's a meteor.  Atmospheric scientists don't think it's lightning.  The photographer insists that the streak and flash on the above image has not been created digitally.  So what is it? Nobody is sure.  APOD's editors do not claim to know - one purpose of posting this image is to mine the eclectic brain trust of APOD's readers to help see if some unusual phenomenon was caught serendipitously.  The strange features were captured on a series of images intended to monitor cloud changes in the background.  Images taken just before and after the above frame show no streak or flash.  The light pole near the flash has been inspected and does not show any damage, although the light inside was not working.  If you think you know what is going on, instead of sending us email please participate in an online discussion.  If a convincing argument or consensus is reached, the answer will be posted on APOD at a later date.   Discussion consensus: Australian strange streak is plausibly just a flying insect. News: The answer to Lewin's Challenge APOD can be found here.",
+      "copyright": "Wayne Pryde"
+    },
+    {
+      "title": "Destination: Moon",
+      "date": "1998-01-08",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/9801/prosp_ksc.gif",
+      "hdurl": "https://apod.nasa.gov/apod/image/9801/prosp_ksc_big.jpg",
+      "explanation": "Tuesday, January 6, at 9:28 p.m. EST, NASA's Lunar Prospector spacecraft climbed into the sky above Cape Canaveral Air Station riding an Athena II rocket. Representing NASA's first Moon mission since the 1972 flight of Apollo 17, this launch also occurred on the 30th anniversary of the launch of the Surveyor 7 lunar lander. The three stage launch vehicle's fiery trail is in the foreground of this time exposure while the Moon, near first quarter phase, is shown in the background some 250,000 miles from the Cape. Prospector will cover that distance in about 5 days, entering lunar orbit on Sunday. Prospector carries no cameras to image the well-photographed lunar surface. Instead, its array of instruments will map the lunar gravity, magnetic field, internal structure, and surface composition. The result, a detailed global view of current lunar properties, is expected to dramatically impact humanity's understanding of the origins of the Moon and the Solar System. From its vantage point in polar orbit, only 63 miles above the lunar surface, Prospector will also conduct a sensitive search for water ice which may be preserved in permanent shadow at the Moon's South Pole.",
       "copyright": ""
     },
     {
-      "title": "Illusion and Evolution in Galaxy Cluster Abell 2667",
-      "date": "2007-03-05",
+      "title": "Comet Hyakutake on a Starry Night",
+      "date": "1996-04-23",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0703/a2667_hst.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0703/a2667_hst_big.jpg",
-      "explanation": "What's happening to the galaxies of cluster Abell 2667?  On the upper left, a galaxy appears to be breaking up into small pieces, while on the far right, another galaxy appears to be stretched like taffy.  To start, most of the yellowish objects in the above image from the Hubble Space Telescope are galactic members of a massive cluster of galaxies known as Abell 2667.  The distortion of the galaxy on the upper left is real.  As the galaxy plows through the intercluster medium, gas is stripped out and condenses to form bright new knots of stars.  This detailed image of ram pressure stripping helps astronomers understand why so many galaxies today have so little gas. The distortion of the galaxy on the far right, however, is an illusion.  This nearly normal galaxy is actually far behind the massive galaxy cluster.  Light from this galaxy is gravitationally lensed by Abell 2667, appearing much like a distant person would appear through a wine glass. Each distorted galaxy gives important clues about how galaxies and clusters of galaxies evolve.",
-      "copyright": ""
+      "url": "https://apod.nasa.gov/apod/image/hyak32.gif",
+      "hdurl": "https://apod.nasa.gov/apod/image/hyak32.gif",
+      "explanation": "It was a starry night in April (April 9th, 1996, 9:32 pm CDT to be exact) near Lone Jack, Missouri when Comet Hyakutake graced this astronomically rich field. Making an appearance as the brilliant evening star, Venus is overexposed at the far left. Just below Venus and slightly to the right, the Pleiades star cluster (M45) glistens. On the right hand side of the image, the comet itself shows a bright blue tail extending upwards past the nearby star cluster in the constellation Perseus (top right, the Alpha Persei Group). Hyakutake, receding from the Earth and appoaching the Sun, will sink into the western horizon at sunset in late April, disappearing from Northern Hemisphere skies.  Latest Comet Hyakutake images: APOD Hyakutake Archive, JPL, Fayetteville Observer-Times, NASA's Night of the Comet, ICSTARS, Jerry Lodriguss, ScienceWeb, Crni Vrh Obs.,",
+      "copyright": "Vic \nWinter, Courtesy\nICSTARS"
     }
   ]
 }
