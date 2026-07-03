@@ -1,51 +1,51 @@
 {
   "source": "nasa-apod",
-  "updated": "2026-06-29T08:26:19.259Z",
+  "updated": "2026-07-03T06:43:07.859Z",
   "items": [
     {
-      "title": "Enceladus Backlit by Saturn",
-      "date": "2012-02-08",
+      "title": "Light From A Distant Planet",
+      "date": "2005-04-05",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/1202/enceladus12_cassini_960.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/1202/enceladus12_cassini_1023.png",
-      "explanation": "This moon is shining by the light of its planet. Specifically, a large portion of Enceladus pictured above is illuminated primarily by sunlight first reflected from the planet Saturn. The result is that the normally snow-white moon appears in the gold color of Saturn's cloud tops.  As most of the illumination comes from the image left, a labyrinth of ridges throws notable shadows just to the right of the image center, while the kilometer-deep canyon Labtayt Sulci is visible just below. The bright thin crescent on the far right is the only part of Enceladus directly lit by the Sun. The above image was taken last year by the robotic Cassini spacecraft during a close pass by by the enigmatic moon.  Inspection of the lower part of this digitally sharpened image reveals plumes of ice crystals thought to originate in a below-surface sea.   APOD in India: APOD editor to speak in Delhi on Feb. 12 (registration required)",
+      "url": "https://apod.nasa.gov/apod/image/0504/planeteclipse_spitzer.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0504/planeteclipse_spitzer_big.jpg",
+      "explanation": "Light emitted by a planet far beyond our Solar System has been identified for the first time.  The planet, illustrated in the above drawing, had its light detected by comparing the brightness of only the parent star, when the planet was behind the star, to the light emitted when both the planet and its parent star were visible.   The Earth-trailing Spitzer Space Telescope made the observation in infrared light, where the intrinsic glow of the planet outshines the light it reflects from its central star.  The direct observation of light allowed a measurement of both the temperature and size of the planet: HD 209458b.  Planet HD 209458b was confirmed to be larger than expected for its mass and on an orbit around its parent star that was unexpectedly close to a circle.",
       "copyright": ""
     },
     {
-      "title": "Occultations and Rising Moons",
-      "date": "1998-05-13",
+      "title": "Cassini's Last Ring Portrait at Saturn",
+      "date": "2017-09-26",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/9805/vjgim_staiger.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/9805/vjgim_staiger_big.jpg",
-      "explanation": "On April 23, the rising crescent Moon occulted (passed in front of) Venus and Jupiter. The double occultation was a rare event and only visible from certain locations tracing a path across Earth's surface. This dramatic telephoto picture was taken at one such location, Ascension Island in the South Atlantic. The sunlit crescent is over-exposed revealing the rest of the lunar surface illuminated by faint earthshine. Venus is emerging just beyond the crescent's tip and Jupiter is trailing above the dark lunar edge with a spot of light, Jupiter's moon Ganymede, between the lunar limb and the planet's disk. Look closely at Jupiter and you can see yet another Jovian moon, Io, just visible against Jupiter's glare!",
-      "copyright": "Olivier Staiger"
-    },
-    {
-      "title": "A Strange Streak Imaged in Australia",
-      "date": "2004-12-07",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0412/strange_pryde.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0412/strange_pryde_big.jpg",
-      "explanation": "Meteor experts don't think it's a meteor.  Atmospheric scientists don't think it's lightning.  The photographer insists that the streak and flash on the above image has not been created digitally.  So what is it? Nobody is sure.  APOD's editors do not claim to know - one purpose of posting this image is to mine the eclectic brain trust of APOD's readers to help see if some unusual phenomenon was caught serendipitously.  The strange features were captured on a series of images intended to monitor cloud changes in the background.  Images taken just before and after the above frame show no streak or flash.  The light pole near the flash has been inspected and does not show any damage, although the light inside was not working.  If you think you know what is going on, instead of sending us email please participate in an online discussion.  If a convincing argument or consensus is reached, the answer will be posted on APOD at a later date.   Discussion consensus: Australian strange streak is plausibly just a flying insect. News: The answer to Lewin's Challenge APOD can be found here.",
-      "copyright": "Wayne Pryde"
-    },
-    {
-      "title": "Destination: Moon",
-      "date": "1998-01-08",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/9801/prosp_ksc.gif",
-      "hdurl": "https://apod.nasa.gov/apod/image/9801/prosp_ksc_big.jpg",
-      "explanation": "Tuesday, January 6, at 9:28 p.m. EST, NASA's Lunar Prospector spacecraft climbed into the sky above Cape Canaveral Air Station riding an Athena II rocket. Representing NASA's first Moon mission since the 1972 flight of Apollo 17, this launch also occurred on the 30th anniversary of the launch of the Surveyor 7 lunar lander. The three stage launch vehicle's fiery trail is in the foreground of this time exposure while the Moon, near first quarter phase, is shown in the background some 250,000 miles from the Cape. Prospector will cover that distance in about 5 days, entering lunar orbit on Sunday. Prospector carries no cameras to image the well-photographed lunar surface. Instead, its array of instruments will map the lunar gravity, magnetic field, internal structure, and surface composition. The result, a detailed global view of current lunar properties, is expected to dramatically impact humanity's understanding of the origins of the Moon and the Solar System. From its vantage point in polar orbit, only 63 miles above the lunar surface, Prospector will also conduct a sensitive search for water ice which may be preserved in permanent shadow at the Moon's South Pole.",
+      "url": "https://apod.nasa.gov/apod/image/1709/LastRingPortrait_Cassini_1080.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/1709/LastRingPortrait_Cassini_4472.jpg",
+      "explanation": "How should Cassini say farewell to Saturn?  Three days before plunging into Saturn's sunny side, the robotic Cassini spacecraft swooped far behind Saturn's night side with cameras blazing. Thirty-six of these images have been merged -- by an alert and adept citizen scientist -- into a last full-ring portrait of Cassini's home planet for the past 13 years. The Sun is just above the frame, causing Saturn to cast a dark shadow onto its enormous rings. This shadow position cannot be imaged from Earth and will not be visible again until another Earth-launched spaceship visits the ringed giant.  Data and images from Cassini's mission-ending dive into Saturn's atmosphere on September 15 continue to be analyzed.   Almost Hyperspace: Random APOD Generator",
       "copyright": ""
     },
     {
-      "title": "Comet Hyakutake on a Starry Night",
-      "date": "1996-04-23",
+      "title": "Jupiter: The Great Yellow Spot\n\nCredit:",
+      "date": "1997-03-11",
       "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/hyak32.gif",
-      "hdurl": "https://apod.nasa.gov/apod/image/hyak32.gif",
-      "explanation": "It was a starry night in April (April 9th, 1996, 9:32 pm CDT to be exact) near Lone Jack, Missouri when Comet Hyakutake graced this astronomically rich field. Making an appearance as the brilliant evening star, Venus is overexposed at the far left. Just below Venus and slightly to the right, the Pleiades star cluster (M45) glistens. On the right hand side of the image, the comet itself shows a bright blue tail extending upwards past the nearby star cluster in the constellation Perseus (top right, the Alpha Persei Group). Hyakutake, receding from the Earth and appoaching the Sun, will sink into the western horizon at sunset in late April, disappearing from Northern Hemisphere skies.  Latest Comet Hyakutake images: APOD Hyakutake Archive, JPL, Fayetteville Observer-Times, NASA's Night of the Comet, ICSTARS, Jerry Lodriguss, ScienceWeb, Crni Vrh Obs.,",
-      "copyright": "Vic \nWinter, Courtesy\nICSTARS"
+      "url": "https://apod.nasa.gov/apod/image/9703/yellowsp_gal.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/9703/yellowsp_gal_big.jpg",
+      "explanation": "What happened to Jupiter's Great Red Spot? Operating at a chilly 55 degrees Kelvin, the Galileo Spacecraft's Near Infrared Mapping Spectrometer (NIMS) recorded this composite image of Jupiter's Great Red Spot in late June 1996. Red, green, and blue colors were chosen to represent three different infrared wavelengths detected by the NIMS instrument. The resulting yellowish green appearance of the massive Jovian storm system - a cold, high pressure area 2 to 3 Earth diameters wide - indicates that it lies high above the surrounding cloud features. Blue corresponds to regions where the clouds are relatively thin and the features lie at greater depths.",
+      "copyright": ""
+    },
+    {
+      "title": "Pantheon Earth and Moon",
+      "date": "2007-04-20",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/0704/pantheonEarthMoon_dalsgaard750.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0704/pantheonEarthMoon_dalsgaard.jpg",
+      "explanation": "Could this be a picture of the Earth and Moon from space? It certainly looks like it at first glance, with a cratered Moon standing off from planet Earth's lovely blue disk surrounded by a nurturing atmosphere. In fact, this view looks up into the dome of the ancient Pantheon in Rome. The Earth's blue disk is really the daytime sky with clouds seen through a nine meter diameter central opening in the dome. The circular opening, or oculus, was intended as the source of light for the building's interior. The Moon is actually direct sunlight streaming through the oculus onto the dome's inner ribbed structure. Historian Soeren Dalsgaard snapped the evocative picture in February and comments that for almost two thousand years the rays of the Sun have traced a steady path on the inside of the Pantheon's cupola. A testament to Roman architecture and engineering, the Pantheon's dome is said to symbolize the vault of the heavens.",
+      "copyright": "Soeren\nDalsgaard"
+    },
+    {
+      "title": "A Magellanic Starfield",
+      "date": "2003-01-04",
+      "media_type": "image",
+      "url": "https://apod.nasa.gov/apod/image/0301/lmcstarfield_hst.jpg",
+      "hdurl": "https://apod.nasa.gov/apod/image/0301/lmcstarfield_hst_big.jpg",
+      "explanation": "Stars of many types and colors are visible in this Hubble Space Telescope close-up of a starfield in the Large Magellanic Cloud (LMC).  Over 10,000 stars are visible -- the brightest of which are giant stars.  Were our Sun at the distance of these stars, about 170,000 light-years, it would hardly be discernable.  By contrast, only a few thousand individual stars can be seen in the night sky with the unaided eye, and many of these lie within only a few hundred light-years.  So typically, the light we see from nearby stars left during the age of our great-grand-parents, while light from LMC stars started its journey well before the dawn of recorded human history.",
+      "copyright": ""
     }
   ]
 }
