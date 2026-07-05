@@ -1,3 +1,4 @@
 {
-  "showAvailableForRoles": false
+  "showAvailableForRoles": false,
+  "contactFormEndpoint": "https://formspree.io/f/xbdvwkal"
 }
