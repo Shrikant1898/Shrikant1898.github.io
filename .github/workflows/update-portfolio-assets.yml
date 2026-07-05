@@ -26,6 +26,7 @@ jobs:
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
           LOGO_API_KEY: ${{ secrets.LOGO_API_KEY }}
           SHOW_AVAILABLE_FOR_ROLES: ${{ vars.SHOW_AVAILABLE_FOR_ROLES }}
+          CONTACT_FORM_ENDPOINT: ${{ vars.CONTACT_FORM_ENDPOINT }}
         run: |
           node <<'NODE'
           const fs = require('fs/promises');
@@ -120,10 +121,13 @@ jobs:
             await ensureDir('data');
             const showAvailableForRoles =
               String(process.env.SHOW_AVAILABLE_FOR_ROLES || '').toLowerCase() === 'true';
+            const contactFormEndpoint = String(process.env.CONTACT_FORM_ENDPOINT || '').trim();
             await fs.writeFile(siteConfigFile, JSON.stringify({
-              showAvailableForRoles
+              showAvailableForRoles,
+              contactFormEndpoint
             }, null, 2) + '\n');
             console.log(`Availability badge is ${showAvailableForRoles ? 'shown' : 'hidden'}.`);
+            console.log(`Contact form is ${contactFormEndpoint ? 'configured' : 'not configured'}.`);
           }
 
           async function updateLogos() {
