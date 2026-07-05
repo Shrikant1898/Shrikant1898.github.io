@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /data/
+Disallow: /assets/logos/
+Disallow: /.github/
+Disallow: /maintenance.html
+
+Sitemap: https://shrikantpawar.com/sitemap.xml
