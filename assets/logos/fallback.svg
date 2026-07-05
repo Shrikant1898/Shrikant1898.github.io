@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Logo fallback">
+  <rect width="128" height="128" rx="24" fill="#12001f"/>
+  <path d="M28 82 52 34h18L46 82H28Zm41 0 12-24 12 24H69Zm15-48h16l-8 16-8-16Z" fill="#c084fc"/>
+  <circle cx="98" cy="30" r="8" fill="#22d3ee"/>
+</svg>
