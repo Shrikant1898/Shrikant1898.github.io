@@ -2,42 +2,7 @@
   "source": "nasa-apod",
   "updated": "2026-07-05T06:50:48.643Z",
   "items": [
-    {
-      "title": "Framed by Clouds",
-      "date": "2009-04-30",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/0904/img8188_lawrence.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/0904/img8188_lawrence.jpg",
-      "explanation": "Last Sunday's fading evening twilight featured a young crescent Moon along the western horizon. The young Moon also shared the sky with the lovely Pleiades star cluster and wandering planet Mercury. Framed by clouds in this serene skyscape from Selsey, UK, a similar twilight scene was visible around the globe. Emerging from the cloud bank below the Pleiades, the narrow sunlit lunar crescent is overexposed. Still, the Moon's dim night side is impressively clear, illuminated by earthshine. Bright, innermost planet Mercury lies near the bottom of the field. Mercury will remain near the Pleiades, low in the west after sunset over the coming days, an ongoing conjunction of planet and star cluster that will offer skygazers some excellent binocular views.",
-      "copyright": "Digital-Astronomy"
-    },
-    {
-      "title": "Aristarchus' Unbelievable Discoveries",
-      "date": "1996-09-14",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/samos_sts58.gif",
-      "hdurl": "https://apod.nasa.gov/apod/image/samos_sts58_big.jpg",
-      "explanation": "\r Here lived one of the greatest thinkers in human history.  \r Aristarchus lived on the Greek island of Samos, a small island in the center of the \r above picture \r that can be identified with a \r good map. Aristarchus, who lived from 310 BC to 230 BC, postulated that the planets orbited the \r Sun - not the \r Earth -- over a thousand years before \r Copernicus and \r Galileo made similar arguments.  Aristarchus used clear logic to \r estimate the size of the Earth, the size and distance to our \r Moon, the size and distance to our Sun, the \r the even deduced that the points of light we see at night are not dots painted on some celestial sphere but \r stars like our Sun at enormous distances. \r Aristarchus' discoveries remained truly unbelievable to the people of his time but stand today as pillars of deductive reasoning. \r \r",
-      "copyright": ""
-    },
-    {
-      "title": "Greetings from the Pioneers",
-      "date": "1996-06-30",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/plaque_pioneer.gif",
-      "hdurl": "https://apod.nasa.gov/apod/image/plaque_pioneer_big.gif",
-      "explanation": "Launched in the early 1970s Pioneer 10 and 11 were appropriately named - becoming the first spacecraft to travel through the asteroid belt, first to fly by Jupiter and Saturn, and the first human artifacts to venture beyond the solar system. Now coasting through interstellar space, they carry with them greetings in the form of a gold anodized plaque with symbolic drawings as illustrated above. The male and female figures are drawn to the same scale as the Pioneer spacecraft shown behind them. Immediately to the left is a map of the position of the sun with respect to nearby pulsars and the center of the galaxy while below is a drawing of the solar system indicating the planet of origin. In the upper left is a schematic of two fundamental states of the hydrogen atom. These diagrams along with other details of the plaque were designed by Carl Sagan of Cornell University and are intended to be decipherable by spacefaring extraterrestrial civilizations.",
-      "copyright": ""
-    },
-    {
-      "title": "M13: The Great Globular Cluster in Hercules",
-      "date": "2025-08-14",
-      "media_type": "image",
-      "url": "https://apod.nasa.gov/apod/image/2508/lrg_ngc6205_1024.jpg",
-      "hdurl": "https://apod.nasa.gov/apod/image/2508/lrg_ngc6205.jpg",
-      "explanation": "In 1716, English astronomer Edmond Halley noted, \"This is but a little Patch, but it shews itself to the naked Eye, when the Sky is serene and the Moon absent.\" Of course, M13 is now less modestly recognized as the Great Globular Cluster in Hercules, one of the brightest globular star clusters in the northern sky. Sharp telescopic views like this one reveal the spectacular cluster's hundreds of thousands of stars. At a distance of 25,000 light-years, the cluster stars crowd into a region 150 light-years in diameter. Approaching the cluster core, upwards of 100 stars could be contained in a cube just 3 light-years on a side. For comparison with our neighborhood of the Milky Way, the closest star to the Sun is over 4 light-years away. Early telescopic observers of the great globular cluster also noted a curious convergence of three dark lanes with a spacing of about 120 degrees, seen here just below the cluster center.  Known as the propeller in M13, the shape is likely a chance optical effect of the distribution of stars viewed from our perspective against the dense cluster core.",
-      "copyright": "R. Jay Gabany"
-    },
+   
     {
       "title": "Saturn: 1993 - 2022",
       "date": "2022-08-19",
