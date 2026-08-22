@@ -48,7 +48,7 @@ jobs:
             { id: 'ltimindtree', domain: 'ltimindtree.com' },
             { id: 'connectwise', domain: 'connectwise.com' },
             { id: 'capgemini', domain: 'capgemini.com' },
-            { id: 'exidelife', domain: 'exidelife.in' },
+            { id: 'nttglobal', domain: 'global.ntt' },
             { id: 'bayer', domain: 'bayer.com' }
           ];
 
